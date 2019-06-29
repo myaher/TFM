@@ -1,0 +1,2577 @@
+[
+    {
+        "type": "photo",
+        "blog_name": "daeyton",
+        "blog": {
+            "name": "daeyton",
+            "title": "Eh.",
+            "description": "",
+            "url": "https://daeyton.tumblr.com/",
+            "uuid": "t:ovZA3Nwa1c_gwAKUI7vEbA",
+            "updated": 1561756828
+        },
+        "id": 183367518512,
+        "post_url": "https://daeyton.tumblr.com/post/183367518512/just-wanted-to-share-in-case-i-ruin-it-more-with",
+        "slug": "just-wanted-to-share-in-case-i-ruin-it-more-with",
+        "date": "2019-03-10 23:17:16 GMT",
+        "timestamp": 1552259836,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "RsnzRg8o",
+        "tags": [
+            "jonerys",
+            "daenerys targaryen",
+            "jon snow",
+            "fan art",
+            "sketch",
+            "my art",
+            "wip",
+            "guys im sorry i dont think ive posted a finished art yet this year",
+            "its really bad i know"
+        ],
+        "short_url": "https://tmblr.co/Z1CTSl2gnZaam",
+        "summary": "Just wanted to share in case I ruin it more with line art and color:) The last Targaryens <3<3",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 849,
+        "caption": "<p>Just wanted to share in case I ruin it more with line art and color:)</p><p>The last Targaryens &lt;3&lt;3</p>",
+        "reblog": {
+            "comment": "<p>Just wanted to share in case I ruin it more with line art and color:)</p><p>The last Targaryens <3<3</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "daeyton",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 400,
+                        "header_full_height": 244,
+                        "header_focus_width": 334,
+                        "header_focus_height": 188,
+                        "avatar_shape": "square",
+                        "background_color": "#F6F6F6",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "6,400,194,66",
+                        "header_image": "https://static.tumblr.com/03163b577734dcf05e4bc3659a56fae9/etlypiw/XUIpriknt/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/087d378aff5eea5a7e13e7f271e87a0d/etlypiw/XcCpriknu/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/03163b577734dcf05e4bc3659a56fae9/etlypiw/XUIpriknt/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#6F0B16",
+                        "show_avatar": false,
+                        "show_description": false,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#252525",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183367518512"
+                },
+                "content_raw": "<p>Just wanted to share in case I ruin it more with line art and color:)</p><p>The last Targaryens <3<3</p>",
+                "content": "<p>Just wanted to share in case I ruin it more with line art and color:)</p><p>The last Targaryens </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://daeyton.tumblr.com/image/183367518512",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_540.jpg",
+                    "width": 536,
+                    "height": 750
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_540.jpg",
+                        "width": 536,
+                        "height": 750
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_500.jpg",
+                        "width": 500,
+                        "height": 700
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_400.jpg",
+                        "width": 400,
+                        "height": 560
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_250.jpg",
+                        "width": 250,
+                        "height": 350
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_100.jpg",
+                        "width": 100,
+                        "height": 140
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2608adffdc64097d9db534c3d5a8feee/tumblr_po6bcsnql61u9trhmo2_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "jonatargaryen",
+        "blog": {
+            "name": "jonatargaryen",
+            "title": "Game of Thrones",
+            "description": "",
+            "url": "https://jonatargaryen.tumblr.com/",
+            "uuid": "t:T_TgM6DFVlaWq30yeq5IPg",
+            "updated": 1560728368
+        },
+        "id": 183367306430,
+        "post_url": "https://jonatargaryen.tumblr.com/post/183367306430",
+        "slug": "",
+        "date": "2019-03-10 23:07:03 GMT",
+        "timestamp": 1552259223,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "MUH7eV6Q",
+        "tags": [
+            "game of thrones",
+            "house tyrell",
+            "daenerys targaryen",
+            "jon snow",
+            "khaldrogo"
+        ],
+        "short_url": "https://tmblr.co/ZhjiwZ2gnYmo_",
+        "summary": "",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 18,
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"1802\" data-orig-width=\"1200\"><img src=\"https://66.media.tumblr.com/b802dad322f5ca0e1522f820bd8f326b/tumblr_po6avqb66z1tuiade_540.jpg\" data-orig-height=\"1802\" data-orig-width=\"1200\"/></figure>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"1802\" data-orig-width=\"1200\"><img src=\"https://66.media.tumblr.com/b802dad322f5ca0e1522f820bd8f326b/tumblr_po6avqb66z1tuiade_540.jpg\" data-orig-height=\"1802\" data-orig-width=\"1200\"></figure></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "jonatargaryen",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 500,
+                        "header_full_height": 278,
+                        "header_focus_width": 477,
+                        "header_focus_height": 268,
+                        "avatar_shape": "circle",
+                        "background_color": "#000000",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,482,268,5",
+                        "header_image": "https://static.tumblr.com/cb580cdcd118dc5465f0f1fb34ef0e38/hrtcvcx/Rpkpiq6f2/tumblr_static_.gif",
+                        "header_image_focused": "https://static.tumblr.com/cb580cdcd118dc5465f0f1fb34ef0e38/hrtcvcx/dSHpiq6f5/tumblr_static_tumblr_static__focused_v3.gif",
+                        "header_image_scaled": "https://static.tumblr.com/cb580cdcd118dc5465f0f1fb34ef0e38/hrtcvcx/Rpkpiq6f2/tumblr_static__2048_v2.gif",
+                        "header_stretch": true,
+                        "link_color": "#212D72",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Caslon FS",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183367306430"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"1802\" data-orig-width=\"1200\"><img src=\"https://66.media.tumblr.com/b802dad322f5ca0e1522f820bd8f326b/tumblr_po6avqb66z1tuiade_540.jpg\" data-orig-height=\"1802\" data-orig-width=\"1200\"></figure></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/b802dad322f5ca0e1522f820bd8f326b/tumblr_po6avqb66z1tuiade_540.jpg\" class=\"\"/></figure></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "nothinghappensinalstonville",
+        "blog": {
+            "name": "nothinghappensinalstonville",
+            "title": "Nothing Happens Here",
+            "description": "And that is just the way I like it - and also why I obsess over GOT. Also cats.",
+            "url": "https://nothinghappensinalstonville.tumblr.com/",
+            "uuid": "t:TNPBx90oPl2AGRfrHkqMkA",
+            "updated": 1561718359
+        },
+        "id": 183367036919,
+        "post_url": "https://nothinghappensinalstonville.tumblr.com/post/183367036919/this-is-further-to-a-discussion-i-had-earlier",
+        "slug": "this-is-further-to-a-discussion-i-had-earlier",
+        "date": "2019-03-10 22:54:24 GMT",
+        "timestamp": 1552258464,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "GQWOfLUV",
+        "tags": [
+            "daenerys targaryen",
+            "anti-daenerys",
+            "game of thrones",
+            "nhiaop"
+        ],
+        "short_url": "https://tmblr.co/ZzXkPa2gnXk-t",
+        "summary": "This is further to a discussion I had earlier today concerning whether Daenerys is likely to go\u00a0\u2018mad\u2019 like her father.\u00a0 In the...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 245,
+        "caption": "<p>This is further to a discussion I had earlier today concerning whether Daenerys is likely to go\u00a0\u2018mad\u2019 like her father.\u00a0</p><p>In the original script for Stormborn, she was constantly being identified as \u201cthe Mad Kings Daughter\u201d. According to Brian Cogman, the script was originally titled \u201cThe Mad Kings Daughter\u201d, although many of the references in\u00a0the script did not make it to the end product. Daenerys herself doesn\u2019t appear to be showing any signs of being delusional or any sign of being insane as such, but it would be foolish to ignore the fact that she is deliberately following in her father\u2019s footsteps, even while protesting she is\u00a0\u201cnot [her] father\u201d.</p><p>She makes a conscious decision to embrace\u00a0her family\u2019s legacy of\u00a0\u201cFire and Blood\u201d, and this includes the ruthless suppression of dissent through dragon fire. It is a dream of absolute power which brooks no opposition.</p><p>Although you could argue that a person who shows a preference for killing people by burning them alive may not be living their best self, she clearly does this with a rational desire to intimidate her enemies. Her emotionless response to watching people die is disturbing and could point to sociopathic tendencies, but in Westerosii society is unlikely to be labelled as\u00a0\u2018mad\u2019. Many both in-universe and out would view this as strength.</p><p>Something that is made clear all the way back in Season 1 by Maester Pycelle, is that her father did not start out as mad. He says he was a\u00a0\u2018charmer\u2019 who was slowly\u00a0\u2018consumed by dreams of fire and blood\u2019. In the books, we learn that his slide into madness began as paranoia, probably aided by the machinations of his Lannister Hand. But that is beyond the scope of this meta.</p><p>There is a deep pathos to the way Pycelle talks of Aerys.\u00a0 This scene, often dismissed as the ravings of an unlikeable fool, foreshadows Daenerys\u2019 slide, if not into madness, at least into villainy. It is our warning, too easily dismissed.</p><p>There were two incidents included in Season 7 that seem to be pointing to a growing paranoia. In the books Daenerys is constantly looking for betrayal, always wondering of what the\u00a0\u2018three treasons\u2019 might consist. In the show, there is little to point to this internal turmoil. The treasons prophecy itself never made it into the show.\u00a0</p><p>We have the deleted scene from Season 4 between her and Missendei, and it is a shame it wasn\u2019t included. It would have made the two Season 7 scenes appear to come less out of the blue.\u00a0</p><p>In the beach scene, Daenerys startles her advisors with her sudden accusations against Tyrion. Look at her expression. Eyes wide, almost popping out of her head with anger. Missendei is even shown cowering behind Varys. Jon is looking around with a\u00a0\u2018good grief, is this normal\u2019 expression.</p><p>The next scene is another one where she turns on Tyrion, this time with little justification. The suggestion she should plan for the future is not unreasonable, but it sends her into another paranoid rant.</p><p>Both scenes show how easy it is for her to lose her temper (\u201dwhen have I lost my temper\u201d) and, in the second scene, with such little provocation. One wonders how she would react to proof of real betrayal, or at least a more solid suspicion of it. We don\u2019t really need to wonder because she straight up tells Varys.\u00a0\u201cIf you ever betray me, I\u2019ll burn you alive\u201d.\u00a0</p><p>None of these scenes shows a level of paranoia that could be viewed as anywhere near approaching\u00a0\u2018madness\u2019. It does, however, show how easily Daenerys can be led by her feelings of paranoia to lash out in ways that could be truly catastrophic.\u00a0She does have dragons after all.</p>",
+        "reblog": {
+            "comment": "<p>This is further to a discussion I had earlier today concerning whether Daenerys is likely to go\u00a0\u2018mad\u2019 like her father.\u00a0</p><p>In the original script for Stormborn, she was constantly being identified as \u201cthe Mad Kings Daughter\u201d. According to Brian Cogman, the script was originally titled \u201cThe Mad Kings Daughter\u201d, although many of the references in\u00a0the script did not make it to the end product. Daenerys herself doesn\u2019t appear to be showing any signs of being delusional or any sign of being insane as such, but it would be foolish to ignore the fact that she is deliberately following in her father\u2019s footsteps, even while protesting she is\u00a0\u201cnot [her] father\u201d.</p><p>She makes a conscious decision to embrace\u00a0her family\u2019s legacy of\u00a0\u201cFire and Blood\u201d, and this includes the ruthless suppression of dissent through dragon fire. It is a dream of absolute power which brooks no opposition.</p><p>Although you could argue that a person who shows a preference for killing people by burning them alive may not be living their best self, she clearly does this with a rational desire to intimidate her enemies. Her emotionless response to watching people die is disturbing and could point to sociopathic tendencies, but in Westerosii society is unlikely to be labelled as\u00a0\u2018mad\u2019. Many both in-universe and out would view this as strength.</p><p>Something that is made clear all the way back in Season 1 by Maester Pycelle, is that her father did not start out as mad. He says he was a\u00a0\u2018charmer\u2019 who was slowly\u00a0\u2018consumed by dreams of fire and blood\u2019. In the books, we learn that his slide into madness began as paranoia, probably aided by the machinations of his Lannister Hand. But that is beyond the scope of this meta.</p><p>There is a deep pathos to the way Pycelle talks of Aerys.\u00a0 This scene, often dismissed as the ravings of an unlikeable fool, foreshadows Daenerys\u2019 slide, if not into madness, at least into villainy. It is our warning, too easily dismissed.</p><p>There were two incidents included in Season 7 that seem to be pointing to a growing paranoia. In the books Daenerys is constantly looking for betrayal, always wondering of what the\u00a0\u2018three treasons\u2019 might consist. In the show, there is little to point to this internal turmoil. The treasons prophecy itself never made it into the show.\u00a0</p><p>We have the deleted scene from Season 4 between her and Missendei, and it is a shame it wasn\u2019t included. It would have made the two Season 7 scenes appear to come less out of the blue.\u00a0</p><p>In the beach scene, Daenerys startles her advisors with her sudden accusations against Tyrion. Look at her expression. Eyes wide, almost popping out of her head with anger. Missendei is even shown cowering behind Varys. Jon is looking around with a\u00a0\u2018good grief, is this normal\u2019 expression.</p><p>The next scene is another one where she turns on Tyrion, this time with little justification. The suggestion she should plan for the future is not unreasonable, but it sends her into another paranoid rant.</p><p>Both scenes show how easy it is for her to lose her temper (\u201dwhen have I lost my temper\u201d) and, in the second scene, with such little provocation. One wonders how she would react to proof of real betrayal, or at least a more solid suspicion of it. We don\u2019t really need to wonder because she straight up tells Varys.\u00a0\u201cIf you ever betray me, I\u2019ll burn you alive\u201d.\u00a0</p><p>None of these scenes shows a level of paranoia that could be viewed as anywhere near approaching\u00a0\u2018madness\u2019. It does, however, show how easily Daenerys can be led by her feelings of paranoia to lash out in ways that could be truly catastrophic.\u00a0She does have dragons after all.</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "nothinghappensinalstonville",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 950,
+                        "header_full_height": 313,
+                        "header_focus_width": 533,
+                        "header_focus_height": 300,
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "6,741,306,208",
+                        "header_image": "https://static.tumblr.com/741534cba70983b5d5afde59acebcd8b/fxuljpr/RoFpayl0f/tumblr_static_6bur429bbe4ogwc0oo8og84kc.jpg",
+                        "header_image_focused": "https://static.tumblr.com/741534cba70983b5d5afde59acebcd8b/fxuljpr/AkNpayl0i/tumblr_static_tumblr_static_6bur429bbe4ogwc0oo8og84kc_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/741534cba70983b5d5afde59acebcd8b/fxuljpr/RoFpayl0f/tumblr_static_6bur429bbe4ogwc0oo8og84kc_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Sans Serif",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183367036919"
+                },
+                "content_raw": "<p>This is further to a discussion I had earlier today concerning whether Daenerys is likely to go\u00a0\u2018mad\u2019 like her father.\u00a0</p><p>In the original script for Stormborn, she was constantly being identified as \u201cthe Mad Kings Daughter\u201d. According to Brian Cogman, the script was originally titled \u201cThe Mad Kings Daughter\u201d, although many of the references in\u00a0the script did not make it to the end product. Daenerys herself doesn\u2019t appear to be showing any signs of being delusional or any sign of being insane as such, but it would be foolish to ignore the fact that she is deliberately following in her father\u2019s footsteps, even while protesting she is\u00a0\u201cnot [her] father\u201d.</p><p>She makes a conscious decision to embrace\u00a0her family\u2019s legacy of\u00a0\u201cFire and Blood\u201d, and this includes the ruthless suppression of dissent through dragon fire. It is a dream of absolute power which brooks no opposition.</p><p>Although you could argue that a person who shows a preference for killing people by burning them alive may not be living their best self, she clearly does this with a rational desire to intimidate her enemies. Her emotionless response to watching people die is disturbing and could point to sociopathic tendencies, but in Westerosii society is unlikely to be labelled as\u00a0\u2018mad\u2019. Many both in-universe and out would view this as strength.</p><p>Something that is made clear all the way back in Season 1 by Maester Pycelle, is that her father did not start out as mad. He says he was a\u00a0\u2018charmer\u2019 who was slowly\u00a0\u2018consumed by dreams of fire and blood\u2019. In the books, we learn that his slide into madness began as paranoia, probably aided by the machinations of his Lannister Hand. But that is beyond the scope of this meta.</p><p>There is a deep pathos to the way Pycelle talks of Aerys.\u00a0 This scene, often dismissed as the ravings of an unlikeable fool, foreshadows Daenerys\u2019 slide, if not into madness, at least into villainy. It is our warning, too easily dismissed.</p><p>There were two incidents included in Season 7 that seem to be pointing to a growing paranoia. In the books Daenerys is constantly looking for betrayal, always wondering of what the\u00a0\u2018three treasons\u2019 might consist. In the show, there is little to point to this internal turmoil. The treasons prophecy itself never made it into the show.\u00a0</p><p>We have the deleted scene from Season 4 between her and Missendei, and it is a shame it wasn\u2019t included. It would have made the two Season 7 scenes appear to come less out of the blue.\u00a0</p><p>In the beach scene, Daenerys startles her advisors with her sudden accusations against Tyrion. Look at her expression. Eyes wide, almost popping out of her head with anger. Missendei is even shown cowering behind Varys. Jon is looking around with a\u00a0\u2018good grief, is this normal\u2019 expression.</p><p>The next scene is another one where she turns on Tyrion, this time with little justification. The suggestion she should plan for the future is not unreasonable, but it sends her into another paranoid rant.</p><p>Both scenes show how easy it is for her to lose her temper (\u201dwhen have I lost my temper\u201d) and, in the second scene, with such little provocation. One wonders how she would react to proof of real betrayal, or at least a more solid suspicion of it. We don\u2019t really need to wonder because she straight up tells Varys.\u00a0\u201cIf you ever betray me, I\u2019ll burn you alive\u201d.\u00a0</p><p>None of these scenes shows a level of paranoia that could be viewed as anywhere near approaching\u00a0\u2018madness\u2019. It does, however, show how easily Daenerys can be led by her feelings of paranoia to lash out in ways that could be truly catastrophic.\u00a0She does have dragons after all.</p>",
+                "content": "<p>This is further to a discussion I had earlier today concerning whether Daenerys is likely to go&nbsp;&lsquo;mad&rsquo; like her father.&nbsp;</p><p>In the original script for Stormborn, she was constantly being identified as &ldquo;the Mad Kings Daughter&rdquo;. According to Brian Cogman, the script was originally titled &ldquo;The Mad Kings Daughter&rdquo;, although many of the references in&nbsp;the script did not make it to the end product. Daenerys herself doesn&rsquo;t appear to be showing any signs of being delusional or any sign of being insane as such, but it would be foolish to ignore the fact that she is deliberately following in her father&rsquo;s footsteps, even while protesting she is&nbsp;&ldquo;not [her] father&rdquo;.</p><p>She makes a conscious decision to embrace&nbsp;her family&rsquo;s legacy of&nbsp;&ldquo;Fire and Blood&rdquo;, and this includes the ruthless suppression of dissent through dragon fire. It is a dream of absolute power which brooks no opposition.</p><p>Although you could argue that a person who shows a preference for killing people by burning them alive may not be living their best self, she clearly does this with a rational desire to intimidate her enemies. Her emotionless response to watching people die is disturbing and could point to sociopathic tendencies, but in Westerosii society is unlikely to be labelled as&nbsp;&lsquo;mad&rsquo;. Many both in-universe and out would view this as strength.</p><p>Something that is made clear all the way back in Season 1 by Maester Pycelle, is that her father did not start out as mad. He says he was a&nbsp;&lsquo;charmer&rsquo; who was slowly&nbsp;&lsquo;consumed by dreams of fire and blood&rsquo;. In the books, we learn that his slide into madness began as paranoia, probably aided by the machinations of his Lannister Hand. But that is beyond the scope of this meta.</p><p>There is a deep pathos to the way Pycelle talks of Aerys.&nbsp; This scene, often dismissed as the ravings of an unlikeable fool, foreshadows Daenerys&rsquo; slide, if not into madness, at least into villainy. It is our warning, too easily dismissed.</p><p>There were two incidents included in Season 7 that seem to be pointing to a growing paranoia. In the books Daenerys is constantly looking for betrayal, always wondering of what the&nbsp;&lsquo;three treasons&rsquo; might consist. In the show, there is little to point to this internal turmoil. The treasons prophecy itself never made it into the show.&nbsp;</p><p>We have the deleted scene from Season 4 between her and Missendei, and it is a shame it wasn&rsquo;t included. It would have made the two Season 7 scenes appear to come less out of the blue.&nbsp;</p><p>In the beach scene, Daenerys startles her advisors with her sudden accusations against Tyrion. Look at her expression. Eyes wide, almost popping out of her head with anger. Missendei is even shown cowering behind Varys. Jon is looking around with a&nbsp;&lsquo;good grief, is this normal&rsquo; expression.</p><p>The next scene is another one where she turns on Tyrion, this time with little justification. The suggestion she should plan for the future is not unreasonable, but it sends her into another paranoid rant.</p><p>Both scenes show how easy it is for her to lose her temper (&rdquo;when have I lost my temper&rdquo;) and, in the second scene, with such little provocation. One wonders how she would react to proof of real betrayal, or at least a more solid suspicion of it. We don&rsquo;t really need to wonder because she straight up tells Varys.&nbsp;&ldquo;If you ever betray me, I&rsquo;ll burn you alive&rdquo;.&nbsp;</p><p>None of these scenes shows a level of paranoia that could be viewed as anywhere near approaching&nbsp;&lsquo;madness&rsquo;. It does, however, show how easily Daenerys can be led by her feelings of paranoia to lash out in ways that could be truly catastrophic.&nbsp;She does have dragons after all.</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "photoset_layout": "22222",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/0e2a04d9f9fc8d02937e8bd249eaeee9/tumblr_po4z64mn1M1xoen2ao6_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/0e2a04d9f9fc8d02937e8bd249eaeee9/tumblr_po4z64mn1M1xoen2ao6_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0e2a04d9f9fc8d02937e8bd249eaeee9/tumblr_po4z64mn1M1xoen2ao6_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0e2a04d9f9fc8d02937e8bd249eaeee9/tumblr_po4z64mn1M1xoen2ao6_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0e2a04d9f9fc8d02937e8bd249eaeee9/tumblr_po4z64mn1M1xoen2ao6_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/64bc7abc2501adf1180296bc3c955391/tumblr_po4z64mn1M1xoen2ao7_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/64bc7abc2501adf1180296bc3c955391/tumblr_po4z64mn1M1xoen2ao7_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/64bc7abc2501adf1180296bc3c955391/tumblr_po4z64mn1M1xoen2ao7_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/64bc7abc2501adf1180296bc3c955391/tumblr_po4z64mn1M1xoen2ao7_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/64bc7abc2501adf1180296bc3c955391/tumblr_po4z64mn1M1xoen2ao7_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/d461937723f96d50dcc192730573caed/tumblr_po4z64mn1M1xoen2ao9_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/d461937723f96d50dcc192730573caed/tumblr_po4z64mn1M1xoen2ao9_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/d461937723f96d50dcc192730573caed/tumblr_po4z64mn1M1xoen2ao9_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/d461937723f96d50dcc192730573caed/tumblr_po4z64mn1M1xoen2ao9_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/d461937723f96d50dcc192730573caed/tumblr_po4z64mn1M1xoen2ao9_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/fb8181e36dab2184605d6315476329be/tumblr_po4z64mn1M1xoen2ao10_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/fb8181e36dab2184605d6315476329be/tumblr_po4z64mn1M1xoen2ao10_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fb8181e36dab2184605d6315476329be/tumblr_po4z64mn1M1xoen2ao10_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fb8181e36dab2184605d6315476329be/tumblr_po4z64mn1M1xoen2ao10_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fb8181e36dab2184605d6315476329be/tumblr_po4z64mn1M1xoen2ao10_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/38048e65dc380e3370987ad0cf972079/tumblr_po4z64mn1M1xoen2ao4_r3_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/38048e65dc380e3370987ad0cf972079/tumblr_po4z64mn1M1xoen2ao4_r3_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/38048e65dc380e3370987ad0cf972079/tumblr_po4z64mn1M1xoen2ao4_r3_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/38048e65dc380e3370987ad0cf972079/tumblr_po4z64mn1M1xoen2ao4_r3_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/38048e65dc380e3370987ad0cf972079/tumblr_po4z64mn1M1xoen2ao4_r3_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/35c8e6edb1dad3ebdac5dca86c475a84/tumblr_po4z64mn1M1xoen2ao8_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/35c8e6edb1dad3ebdac5dca86c475a84/tumblr_po4z64mn1M1xoen2ao8_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/35c8e6edb1dad3ebdac5dca86c475a84/tumblr_po4z64mn1M1xoen2ao8_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/35c8e6edb1dad3ebdac5dca86c475a84/tumblr_po4z64mn1M1xoen2ao8_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/35c8e6edb1dad3ebdac5dca86c475a84/tumblr_po4z64mn1M1xoen2ao8_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/c2603d8be497ccb57406e37d1993d961/tumblr_po4z64mn1M1xoen2ao1_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/c2603d8be497ccb57406e37d1993d961/tumblr_po4z64mn1M1xoen2ao1_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c2603d8be497ccb57406e37d1993d961/tumblr_po4z64mn1M1xoen2ao1_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c2603d8be497ccb57406e37d1993d961/tumblr_po4z64mn1M1xoen2ao1_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c2603d8be497ccb57406e37d1993d961/tumblr_po4z64mn1M1xoen2ao1_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/0c79c984f84f3034b2eb14c9dc17a337/tumblr_po4z64mn1M1xoen2ao3_r2_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/0c79c984f84f3034b2eb14c9dc17a337/tumblr_po4z64mn1M1xoen2ao3_r2_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0c79c984f84f3034b2eb14c9dc17a337/tumblr_po4z64mn1M1xoen2ao3_r2_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0c79c984f84f3034b2eb14c9dc17a337/tumblr_po4z64mn1M1xoen2ao3_r2_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/0c79c984f84f3034b2eb14c9dc17a337/tumblr_po4z64mn1M1xoen2ao3_r2_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/bef0ac4ade19543b7977fbb2b918a5fa/tumblr_po4z64mn1M1xoen2ao2_r1_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/bef0ac4ade19543b7977fbb2b918a5fa/tumblr_po4z64mn1M1xoen2ao2_r1_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bef0ac4ade19543b7977fbb2b918a5fa/tumblr_po4z64mn1M1xoen2ao2_r1_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bef0ac4ade19543b7977fbb2b918a5fa/tumblr_po4z64mn1M1xoen2ao2_r1_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bef0ac4ade19543b7977fbb2b918a5fa/tumblr_po4z64mn1M1xoen2ao2_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/50a04ddd3fce3c0cd899c6e03290e46c/tumblr_po4z64mn1M1xoen2ao5_r2_400.gif",
+                    "width": 268,
+                    "height": 151
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/50a04ddd3fce3c0cd899c6e03290e46c/tumblr_po4z64mn1M1xoen2ao5_r2_400.gif",
+                        "width": 268,
+                        "height": 151
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/50a04ddd3fce3c0cd899c6e03290e46c/tumblr_po4z64mn1M1xoen2ao5_r2_250.gif",
+                        "width": 250,
+                        "height": 141
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/50a04ddd3fce3c0cd899c6e03290e46c/tumblr_po4z64mn1M1xoen2ao5_r2_100.gif",
+                        "width": 100,
+                        "height": 56
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/50a04ddd3fce3c0cd899c6e03290e46c/tumblr_po4z64mn1M1xoen2ao5_r2_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "artofthrones",
+        "blog": {
+            "name": "artofthrones",
+            "title": "The Art of Ice and Fire",
+            "description": "Game of Thrones/A Song of Ice and Fire Art Blog, None of these are original works.  If you re-blog from here, keep the artist's credits within your re-blog! Background and Avatar by the excellent Prokrik.\n\nSpoilers in some pictures! Be wary, I'm not responsible for your discoveries!\n\nUse the home link, or the orange top right X to navigate back home. \n\nUse the search or the image tags to find your favorite houses/characters. \"HLS4\" for histories and lore of season 4.",
+            "url": "https://artofthrones.tumblr.com/",
+            "uuid": "t:UXdhe1G1Xh112q2mBw13BA",
+            "updated": 1560297358
+        },
+        "id": 183366940080,
+        "post_url": "https://artofthrones.tumblr.com/post/183366940080/67-game-of-thrones-queen-of-the-dragons-by",
+        "slug": "67-game-of-thrones-queen-of-the-dragons-by",
+        "date": "2019-03-10 22:49:50 GMT",
+        "timestamp": 1552258190,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "yZzU1xFM",
+        "tags": [
+            "daenerys targaryen",
+            "game of thrones",
+            "a song of ice and fire",
+            "house targaryen",
+            "daenerys"
+        ],
+        "short_url": "https://tmblr.co/ZJLMZr2gnXNMm",
+        "summary": "#67 Game of Thrones : Queen of the dragons by HeroforPain",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 81,
+        "source_url": "https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fheroforpain%2Fart%2F67-Game-of-Thrones-Queen-of-the-dragons-788747319&t=NWY4ZmY1ZTQzZTIxYTBmYjJhMWVkNThmMWE0MDUwMTAyNzIwN2UzZCwxODMzNjY5NDAwODA%3D&b=t%3AUXdhe1G1Xh112q2mBw13BA&p=https%3A%2F%2Fartofthrones.tumblr.com%2Fpost%2F183366940080%2F67-game-of-thrones-queen-of-the-dragons-by&m=1",
+        "source_title": "deviantart.com",
+        "caption": "<p><a href=\"https://www.deviantart.com/heroforpain/art/67-Game-of-Thrones-Queen-of-the-dragons-788747319\" target=\"_blank\">#67 Game of Thrones : Queen of the dragons</a> by <a href=\"https://www.deviantart.com/heroforpain\" target=\"_blank\">HeroforPain</a> </p>",
+        "reblog": {
+            "comment": "<p><a href=\"https://www.deviantart.com/heroforpain/art/67-Game-of-Thrones-Queen-of-the-dragons-788747319\" target=\"_blank\">#67 Game of Thrones : Queen of the dragons</a> by <a href=\"https://www.deviantart.com/heroforpain\" target=\"_blank\">HeroforPain</a> </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "artofthrones",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183366940080"
+                },
+                "content_raw": "<p><a href=\"https://www.deviantart.com/heroforpain/art/67-Game-of-Thrones-Queen-of-the-dragons-788747319\" target=\"_blank\">#67 Game of Thrones : Queen of the dragons</a> by <a href=\"https://www.deviantart.com/heroforpain\" target=\"_blank\">HeroforPain</a> </p>",
+                "content": "<p><a href=\"https://www.deviantart.com/heroforpain/art/67-Game-of-Thrones-Queen-of-the-dragons-788747319\" target=\"_blank\">#67 Game of Thrones : Queen of the dragons</a> by <a href=\"https://www.deviantart.com/heroforpain\" target=\"_blank\">HeroforPain</a> </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "link_url": "https://www.deviantart.com/heroforpain/art/67-Game-of-Thrones-Queen-of-the-dragons-788747319",
+        "image_permalink": "https://artofthrones.tumblr.com/image/183366940080",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_640.jpg",
+                    "width": 600,
+                    "height": 928
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_640.jpg",
+                        "width": 600,
+                        "height": 928
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_540.jpg",
+                        "width": 524,
+                        "height": 810
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_500.jpg",
+                        "width": 485,
+                        "height": 750
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_400.jpg",
+                        "width": 388,
+                        "height": 600
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_250.jpg",
+                        "width": 250,
+                        "height": 387
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_100.jpg",
+                        "width": 100,
+                        "height": 155
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/414e5c1ac3db191412506ace6ad3ce61/tumblr_po6a32mknA1sxt4ogo1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "thatb-i-t-c-h",
+        "blog": {
+            "name": "thatb-i-t-c-h",
+            "title": "Good Vibes Only",
+            "description": "<p>Multifandom, Books, LGBTQ Supporter</p>",
+            "url": "https://thatb-i-t-c-h.tumblr.com/",
+            "uuid": "t:ijWNA3yxV7nYaQB5PN4byA",
+            "updated": 1561539547
+        },
+        "id": 183365954807,
+        "post_url": "https://thatb-i-t-c-h.tumblr.com/post/183365954807/woman-is-that-meant-to-insult-me-i-would-return",
+        "slug": "woman-is-that-meant-to-insult-me-i-would-return",
+        "date": "2019-03-10 22:01:21 GMT",
+        "timestamp": 1552255281,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "sAGXqa5K",
+        "tags": [
+            "asoiaf",
+            "daenerys targaryen",
+            "got",
+            "quotes",
+            "george r.r martin",
+            "got8"
+        ],
+        "short_url": "https://tmblr.co/Z2CABX2gnTcpt",
+        "summary": "Woman? Is that meant to insult me? I would return the slap, if I took you for a man.",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 10,
+        "title": null,
+        "body": "<p class=\"npf_quote\" data-npf='{\"subtype\":\"quote\"}'>Woman? Is that meant to insult me? I would return the slap, if I took you for a man.  </p><p>Daenerys Targaryen, ASOIAF </p><p><br/></p><p>Still my all time favourite Dany moment if not one of the best quotes in GOT. </p>",
+        "reblog": {
+            "comment": "<p class=\"npf_quote\" data-npf='{\"subtype\":\"quote\"}'>Woman? Is that meant to insult me? I would return the slap, if I took you for a man.  </p><p>Daenerys Targaryen, ASOIAF </p><p><br></p><p>Still my all time favourite Dany moment if not one of the best quotes in GOT. </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "thatb-i-t-c-h",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 749,
+                        "header_full_height": 562,
+                        "header_focus_width": 749,
+                        "header_focus_height": 421,
+                        "avatar_shape": "square",
+                        "background_color": "#000000",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "11,749,432,0",
+                        "header_image": "https://static.tumblr.com/6a4bbedfb74b3dc6384ecb23a79ab8fc/u9ocwep/XOZpnt5hs/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/9e2494a9c84bd8354eae13e717dcc7c3/u9ocwep/hEGpnt5hu/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/6a4bbedfb74b3dc6384ecb23a79ab8fc/u9ocwep/XOZpnt5hs/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#CCCCCC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#DDD5EC",
+                        "title_font": "Square Serif",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183365954807"
+                },
+                "content_raw": "<p class=\"npf_quote\" data-npf='{\"subtype\":\"quote\"}'>Woman? Is that meant to insult me? I would return the slap, if I took you for a man.  </p><p>Daenerys Targaryen, ASOIAF </p><p><br></p><p>Still my all time favourite Dany moment if not one of the best quotes in GOT. </p>",
+                "content": "<p class=\"npf_quote\" data-npf=\"{&quot;subtype&quot;:&quot;quote&quot;}\">Woman? Is that meant to insult me? I would return the slap, if I took you for a man.  </p><p>Daenerys Targaryen, ASOIAF </p><p><br /></p><p>Still my all time favourite Dany moment if not one of the best quotes in GOT. </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "link",
+        "blog_name": "canaries",
+        "blog": {
+            "name": "canaries",
+            "title": "mad queen 2k19",
+            "description": "<a href=\"http://canaries.tumblr.com/about\">+nox,</a> they/them<br><a href=\"http://canaries.tumblr.com/tagged/noxs edits\">edits.</a> <a href=\"http://noxswrites.tumblr.com\">writeblr.</a><br>\ntrack #usernox",
+            "url": "https://canaries.tumblr.com/",
+            "uuid": "t:SVVWalwi339xtDDrUBDo8Q",
+            "updated": 1561743816
+        },
+        "id": 183365264807,
+        "post_url": "https://canaries.tumblr.com/post/183365264807/secrets-and-sketchy-hearts-daenerys-x-sansa-au",
+        "slug": "secrets-and-sketchy-hearts-daenerys-x-sansa-au",
+        "date": "2019-03-10 21:27:20 GMT",
+        "timestamp": 1552253240,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "iwWDCBu2",
+        "tags": [
+            "daensa",
+            "daensa fics",
+            "game of thrones",
+            "a song of ice and fire",
+            "daenerys targaryen",
+            "sansa stark",
+            "mine*fics",
+            "nox writes",
+            "otp: i the wolf she my moon"
+        ],
+        "short_url": "https://tmblr.co/ZEvasY2gnQ_Md",
+        "summary": "Secrets and Sketchy Hearts - Daenerys x Sansa AU | Nox on Patreon",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 3,
+        "title": "Secrets and Sketchy Hearts - Daenerys x Sansa AU | Nox on Patreon",
+        "url": "https://www.patreon.com/posts/secrets-and-x-au-25279540",
+        "link_image": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_540.png",
+        "link_image_dimensions": {
+            "width": 540,
+            "height": 270
+        },
+        "link_author": null,
+        "excerpt": "Join Nox on Patreon to get access to this post and more benefits.",
+        "publisher": "patreon.com",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_1280.png",
+                    "width": 1280,
+                    "height": 640
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_1280.png",
+                        "width": 1280,
+                        "height": 640
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_640.png",
+                        "width": 640,
+                        "height": 320
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_540.png",
+                        "width": 540,
+                        "height": 270
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_500.png",
+                        "width": 500,
+                        "height": 250
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_400.png",
+                        "width": 400,
+                        "height": 200
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_250.png",
+                        "width": 250,
+                        "height": 125
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_100.png",
+                        "width": 100,
+                        "height": 50
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/5f20273f0f488a2fe57e0277ef0cb04f/tumblr_po669kVqKM1xe8qs2_og_75sq.png",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "description": "<blockquote><p>Mrs. Daenerys Stark<i> is etched in the center of the heart. As Mr. Pycell clears her throat she looks up to see him moving on to the next slide of the lecture. She scrambles to jot down the words on the powerpoint before she goes back to outlining her heart. She feels a nudge at her shoulder from her lab partner.<br/></i></p><p><i>\u201cSo which Stark brother?\u201d Her lab partner whispers to her. </i></p></blockquote><p>Read Secrets and Sketchy Hearts a week early on Patreon for only $1 a month. (<a href=\"https://daensas.tumblr.com/post/182711825362/modern-au-where-daenerys-is-doodling-mrs-daenerys\">based on a prompt</a>)</p>",
+        "reblog": {
+            "comment": "<p><blockquote><p>Mrs. Daenerys Stark<i> is etched in the center of the heart. As Mr. Pycell clears her throat she looks up to see him moving on to the next slide of the lecture. She scrambles to jot down the words on the powerpoint before she goes back to outlining her heart. She feels a nudge at her shoulder from her lab partner.<br></i></p><p><i>\u201cSo which Stark brother?\u201d Her lab partner whispers to her. </i></p></blockquote><p>Read Secrets and Sketchy Hearts a week early on Patreon for only $1 a month. (<a href=\"https://daensas.tumblr.com/post/182711825362/modern-au-where-daenerys-is-doodling-mrs-daenerys\">based on a prompt</a>)</p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "canaries",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#ffffff",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://static.tumblr.com/de2db7b0714125064934526ea30c6874/ay3mnqq/5Joptdhnj/tumblr_static_f01zlzavhggkcgscc80408sws.png",
+                        "header_image_focused": "https://static.tumblr.com/de2db7b0714125064934526ea30c6874/ay3mnqq/5Joptdhnj/tumblr_static_f01zlzavhggkcgscc80408sws_2048_v2.png",
+                        "header_image_scaled": "https://static.tumblr.com/de2db7b0714125064934526ea30c6874/ay3mnqq/5Joptdhnj/tumblr_static_f01zlzavhggkcgscc80408sws_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#57e148",
+                        "show_avatar": false,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#000000",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183365264807"
+                },
+                "content_raw": "<p><blockquote><p>Mrs. Daenerys Stark<i> is etched in the center of the heart. As Mr. Pycell clears her throat she looks up to see him moving on to the next slide of the lecture. She scrambles to jot down the words on the powerpoint before she goes back to outlining her heart. She feels a nudge at her shoulder from her lab partner.<br></i></p><p><i>\u201cSo which Stark brother?\u201d Her lab partner whispers to her. </i></p></blockquote><p>Read Secrets and Sketchy Hearts a week early on Patreon for only $1 a month. (<a href=\"https://daensas.tumblr.com/post/182711825362/modern-au-where-daenerys-is-doodling-mrs-daenerys\">based on a prompt</a>)</p></p>",
+                "content": "<p><blockquote><p>Mrs. Daenerys Stark<i> is etched in the center of the heart. As Mr. Pycell clears her throat she looks up to see him moving on to the next slide of the lecture. She scrambles to jot down the words on the powerpoint before she goes back to outlining her heart. She feels a nudge at her shoulder from her lab partner.<br /></i></p><p><i>&ldquo;So which Stark brother?&rdquo; Her lab partner whispers to her. </i></p></blockquote><p>Read Secrets and Sketchy Hearts a week early on Patreon for only $1 a month. (<a href=\"https://daensas.tumblr.com/post/182711825362/modern-au-where-daenerys-is-doodling-mrs-daenerys\">based on a prompt</a>)</p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "theshooting-alice",
+        "blog": {
+            "name": "theshooting-alice",
+            "title": "Shooting Star",
+            "description": "\u00a0",
+            "url": "https://theshooting-alice.tumblr.com/",
+            "uuid": "t:CJZW6cWR2tsRBWbaXR4LRQ",
+            "updated": 1560116762
+        },
+        "id": 183364157913,
+        "post_url": "https://theshooting-alice.tumblr.com/post/183364157913/my-mother-died-giving-me-birth-and-my-father-and",
+        "slug": "my-mother-died-giving-me-birth-and-my-father-and",
+        "date": "2019-03-10 20:32:31 GMT",
+        "timestamp": 1552249951,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "sQg8uKXq",
+        "tags": [
+            "viserys targaryen",
+            "daenerys targaryen",
+            "house targaryen",
+            "fire and blood",
+            "targaryen",
+            "ua",
+            "au",
+            "dracarys"
+        ],
+        "short_url": "https://tmblr.co/ZSYX7u2gnMm7P",
+        "summary": "My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 37,
+        "caption": "<p><i>My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their names if Viserys had not been there to tell me. He was the only one left. The only one. He is all I have.</i><br/></p>",
+        "reblog": {
+            "comment": "<p><i>My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their names if Viserys had not been there to tell me. He was the only one left. The only one. He is all I have.</i><br></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "theshooting-alice",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 800,
+                        "header_full_height": 500,
+                        "header_focus_width": 659,
+                        "header_focus_height": 371,
+                        "avatar_shape": "circle",
+                        "background_color": "#641e09",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "40,747,411,88",
+                        "header_image": "https://static.tumblr.com/843241ad14a344db7215adbcb199e88e/aw7tdy9/2vLntykpm/tumblr_static_565kpu2nhssggw0ocsok4g4wc.png",
+                        "header_image_focused": "https://static.tumblr.com/843241ad14a344db7215adbcb199e88e/aw7tdy9/H1jntykpo/tumblr_static_tumblr_static_565kpu2nhssggw0ocsok4g4wc_focused_v3.png",
+                        "header_image_scaled": "https://static.tumblr.com/843241ad14a344db7215adbcb199e88e/aw7tdy9/2vLntykpm/tumblr_static_565kpu2nhssggw0ocsok4g4wc_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": false,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#CCCCCC",
+                        "title_font": "Streetscript",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183364157913"
+                },
+                "content_raw": "<p><i>My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their names if Viserys had not been there to tell me. He was the only one left. The only one. He is all I have.</i><br></p>",
+                "content": "<p><i>My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their names if Viserys had not been there to tell me. He was the only one left. The only one. He is all I have.</i><br /></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "photoset_layout": "2222",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/e626d6e4fccc4ba6bb579589a2ee73a1/tumblr_po63q7BC441rhgbqpo1_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/e626d6e4fccc4ba6bb579589a2ee73a1/tumblr_po63q7BC441rhgbqpo1_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e626d6e4fccc4ba6bb579589a2ee73a1/tumblr_po63q7BC441rhgbqpo1_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e626d6e4fccc4ba6bb579589a2ee73a1/tumblr_po63q7BC441rhgbqpo1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/a46da35d828ea0bd1a08d65a2e0bf3f5/tumblr_po63q7BC441rhgbqpo2_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/a46da35d828ea0bd1a08d65a2e0bf3f5/tumblr_po63q7BC441rhgbqpo2_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/a46da35d828ea0bd1a08d65a2e0bf3f5/tumblr_po63q7BC441rhgbqpo2_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/a46da35d828ea0bd1a08d65a2e0bf3f5/tumblr_po63q7BC441rhgbqpo2_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/2bac7e1931d2ae3fb411a2af0f8720c0/tumblr_po63q7BC441rhgbqpo4_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/2bac7e1931d2ae3fb411a2af0f8720c0/tumblr_po63q7BC441rhgbqpo4_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2bac7e1931d2ae3fb411a2af0f8720c0/tumblr_po63q7BC441rhgbqpo4_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/2bac7e1931d2ae3fb411a2af0f8720c0/tumblr_po63q7BC441rhgbqpo4_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/e1c685a1f17ad7b88d9d42be17fc3683/tumblr_po63q7BC441rhgbqpo3_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/e1c685a1f17ad7b88d9d42be17fc3683/tumblr_po63q7BC441rhgbqpo3_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e1c685a1f17ad7b88d9d42be17fc3683/tumblr_po63q7BC441rhgbqpo3_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e1c685a1f17ad7b88d9d42be17fc3683/tumblr_po63q7BC441rhgbqpo3_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/aac73864b127d2623074e64ba1204d38/tumblr_po63q7BC441rhgbqpo5_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/aac73864b127d2623074e64ba1204d38/tumblr_po63q7BC441rhgbqpo5_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/aac73864b127d2623074e64ba1204d38/tumblr_po63q7BC441rhgbqpo5_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/aac73864b127d2623074e64ba1204d38/tumblr_po63q7BC441rhgbqpo5_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/a2ae556e7c1db48fe541066f15b72f8c/tumblr_po63q7BC441rhgbqpo6_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/a2ae556e7c1db48fe541066f15b72f8c/tumblr_po63q7BC441rhgbqpo6_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/a2ae556e7c1db48fe541066f15b72f8c/tumblr_po63q7BC441rhgbqpo6_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/a2ae556e7c1db48fe541066f15b72f8c/tumblr_po63q7BC441rhgbqpo6_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/4b839c6836eb5c612eea2f221085a811/tumblr_po63q7BC441rhgbqpo8_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/4b839c6836eb5c612eea2f221085a811/tumblr_po63q7BC441rhgbqpo8_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/4b839c6836eb5c612eea2f221085a811/tumblr_po63q7BC441rhgbqpo8_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/4b839c6836eb5c612eea2f221085a811/tumblr_po63q7BC441rhgbqpo8_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/af78012ccf953c8de28e0641b95df103/tumblr_po63q7BC441rhgbqpo7_250.gif",
+                    "width": 245,
+                    "height": 135
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/af78012ccf953c8de28e0641b95df103/tumblr_po63q7BC441rhgbqpo7_250.gif",
+                        "width": 245,
+                        "height": 135
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/af78012ccf953c8de28e0641b95df103/tumblr_po63q7BC441rhgbqpo7_100.gif",
+                        "width": 100,
+                        "height": 55
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/af78012ccf953c8de28e0641b95df103/tumblr_po63q7BC441rhgbqpo7_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "targaryens-restoration",
+        "blog": {
+            "name": "targaryens-restoration",
+            "title": "Mother Of Dragons",
+            "description": "",
+            "url": "https://targaryens-restoration.tumblr.com/",
+            "uuid": "t:0fN_IRkhYCEW3lsfQarqzQ",
+            "updated": 1556917388
+        },
+        "id": 183364070267,
+        "post_url": "https://targaryens-restoration.tumblr.com/post/183364070267/dd-absolutely-informed-us-who-is-love-of-his",
+        "slug": "dd-absolutely-informed-us-who-is-love-of-his",
+        "date": "2019-03-10 20:28:26 GMT",
+        "timestamp": 1552249706,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "2fVwAPsB",
+        "tags": [
+            "game of thrones",
+            "daenerys targaryen",
+            "jon snow",
+            "season 8",
+            "jon x daenerys",
+            "daenerys stormborn",
+            "house targaryen",
+            "jonerys",
+            "jon x dany",
+            "aegon targaryen",
+            "house stark",
+            "house stargaryen",
+            "anti jonsa",
+            "anti jonsa stans",
+            "for rhe throne"
+        ],
+        "short_url": "https://tmblr.co/ZGHd8b2gnMQjx",
+        "summary": "D&D absolutely informed us who is love of his life.\nAnd Cersei knows it. She finds it out immediately. \nIt was absolutely clear...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 3,
+        "title": null,
+        "body": "<p>D&amp;D absolutely informed us who is love of his life.</p><p>And Cersei knows it. She finds it out immediately. </p><p>It was absolutely clear that Jon looked Dany as pet</p><p>D&amp;D absolutely gave us information that Cersei know who is important person in this moment. Jon looked Dany as pet and Cersei found it immediately. And why she mentioned it with Tyrion? She already has a plan. She wants to send GC to take her as prissioner and play with Jon</p><p>Cersei is absolutely smart woman </p><figure class=\"tmblr-full\" data-orig-height=\"160\" data-orig-width=\"750\"><img src=\"https://66.media.tumblr.com/585e8a0cb7013e089ae04320b785b17e/tumblr_po63jeBT831vzef6y_1280.jpg\" data-orig-height=\"160\" data-orig-width=\"750\"/></figure>",
+        "reblog": {
+            "comment": "<p><p>D&D absolutely informed us who is love of his life.</p><p>And Cersei knows it. She finds it out immediately. </p><p>It was absolutely clear that Jon looked Dany as pet</p><p>D&D absolutely gave us information that Cersei know who is important person in this moment. Jon looked Dany as pet and Cersei found it immediately. And why she mentioned it with Tyrion? She already has a plan. She wants to send GC to take her as prissioner and play with Jon</p><p>Cersei is absolutely smart woman </p><figure class=\"tmblr-full\" data-orig-height=\"160\" data-orig-width=\"750\"><img src=\"https://66.media.tumblr.com/585e8a0cb7013e089ae04320b785b17e/tumblr_po63jeBT831vzef6y_1280.jpg\" data-orig-height=\"160\" data-orig-width=\"750\"></figure></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "targaryens-restoration",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename.png",
+                        "header_image_focused": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename_2048_v2.png",
+                        "header_image_scaled": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#C0A4D2",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183364070267"
+                },
+                "content_raw": "<p><p>D&D absolutely informed us who is love of his life.</p><p>And Cersei knows it. She finds it out immediately. </p><p>It was absolutely clear that Jon looked Dany as pet</p><p>D&D absolutely gave us information that Cersei know who is important person in this moment. Jon looked Dany as pet and Cersei found it immediately. And why she mentioned it with Tyrion? She already has a plan. She wants to send GC to take her as prissioner and play with Jon</p><p>Cersei is absolutely smart woman </p><figure class=\"tmblr-full\" data-orig-height=\"160\" data-orig-width=\"750\"><img src=\"https://66.media.tumblr.com/585e8a0cb7013e089ae04320b785b17e/tumblr_po63jeBT831vzef6y_1280.jpg\" data-orig-height=\"160\" data-orig-width=\"750\"></figure></p>",
+                "content": "<p><p>D&amp;D absolutely informed us who is love of his life.</p><p>And Cersei knows it. She finds it out immediately. </p><p>It was absolutely clear that Jon looked Dany as pet</p><p>D&amp;D absolutely gave us information that Cersei know who is important person in this moment. Jon looked Dany as pet and Cersei found it immediately. And why she mentioned it with Tyrion? She already has a plan. She wants to send GC to take her as prissioner and play with Jon</p><p>Cersei is absolutely smart woman </p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/585e8a0cb7013e089ae04320b785b17e/tumblr_po63jeBT831vzef6y_1280.jpg\" class=\"\"/></figure></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "legitchild",
+        "blog": {
+            "name": "legitchild",
+            "title": "BaratheonInTheNorth",
+            "description": "Jynna Baratheon, only legitimate child of Robert Baratheon.\u00a0",
+            "url": "https://legitchild.tumblr.com/",
+            "uuid": "t:EwCRjLdUoVICJ_SVcTmh-g",
+            "updated": 1561767229
+        },
+        "id": 183364046667,
+        "post_url": "https://legitchild.tumblr.com/post/183364046667/daenerys-is-anti-slaveryand-yet-one-of-her",
+        "slug": "daenerys-is-anti-slaveryand-yet-one-of-her",
+        "date": "2019-03-10 20:27:13 GMT",
+        "timestamp": 1552249633,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "QFJyOp2Y",
+        "tags": [
+            "Daenerys Targaryen",
+            "hypocrisy",
+            "Jorah Mormont"
+        ],
+        "short_url": "https://tmblr.co/ZnopLd2gnMKzB",
+        "summary": "Daenerys is anti-slavery...and yet, one of her closest advisors is a slaver.",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "post_author": "tinky-dinky",
+        "note_count": 9,
+        "title": null,
+        "body": "<p>Daenerys is anti-slavery&hellip;and yet, one of her closest advisors is a slaver.<br/></p>",
+        "reblog": {
+            "comment": "<p>Daenerys is anti-slavery\u2026and yet, one of her closest advisors is a slaver.<br></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "legitchild",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#FFD800",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://static.tumblr.com/7b115e76010c19fb381be991cf02e4e0/mdf9drz/aUmotcreg/tumblr_static_7fil93ygt0sok8w0oogkwcowg.png",
+                        "header_image_focused": "https://static.tumblr.com/7b115e76010c19fb381be991cf02e4e0/mdf9drz/aUmotcreg/tumblr_static_7fil93ygt0sok8w0oogkwcowg_2048_v2.png",
+                        "header_image_scaled": "https://static.tumblr.com/7b115e76010c19fb381be991cf02e4e0/mdf9drz/aUmotcreg/tumblr_static_7fil93ygt0sok8w0oogkwcowg_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#332b00",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183364046667"
+                },
+                "content_raw": "<p>Daenerys is anti-slavery\u2026and yet, one of her closest advisors is a slaver.<br></p>",
+                "content": "<p>Daenerys is anti-slavery&hellip;and yet, one of her closest advisors is a slaver.<br /></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "khaleesifans",
+        "blog": {
+            "name": "khaleesifans",
+            "title": "Khaleesi Fans",
+            "description": "",
+            "url": "https://khaleesifans.tumblr.com/",
+            "uuid": "t:H_ap6IEViwsVSJM1X4rdng",
+            "updated": 1561767269
+        },
+        "id": 183363587007,
+        "post_url": "https://khaleesifans.tumblr.com/post/183363587007/game-of-thrones-t-shirts-httpsgoogl9z3srr",
+        "slug": "game-of-thrones-t-shirts-httpsgoogl9z3srr",
+        "date": "2019-03-10 20:03:59 GMT",
+        "timestamp": 1552248239,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "di6sBWs1",
+        "tags": [
+            "game of thrones",
+            "got",
+            "emilia clarke",
+            "khaleesi",
+            "daenerys targaryen"
+        ],
+        "short_url": "https://tmblr.co/ZFka5q2gnKak-",
+        "summary": "Game of Thrones T-Shirts: https://goo.gl/9Z3SrR",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 1,
+        "caption": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+        "reblog": {
+            "comment": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "khaleesifans",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183363587007"
+                },
+                "content_raw": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+                "content": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://khaleesifans.tumblr.com/image/183363587007",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_500.jpg",
+                    "width": 500,
+                    "height": 500
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_500.jpg",
+                        "width": 500,
+                        "height": 500
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_400.jpg",
+                        "width": 400,
+                        "height": 400
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_250.jpg",
+                        "width": 250,
+                        "height": 250
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_100.jpg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/686367000cb7bb8feb2f23d146264f5e/tumblr_pnwdhokQPm1sm30qco1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "somegotthoughts",
+        "blog": {
+            "name": "somegotthoughts",
+            "title": "Protect The Starks 2k19",
+            "description": "<p>I\u2019m fucking depressed</p>",
+            "url": "https://somegotthoughts.tumblr.com/",
+            "uuid": "t:VQ51bhOJaLBO4xhaGwwmUg",
+            "updated": 1561600829
+        },
+        "id": 183363532471,
+        "post_url": "https://somegotthoughts.tumblr.com/post/183363532471/daenerys-this-is-a-bad-idea-tyrion-there-are-no",
+        "slug": "daenerys-this-is-a-bad-idea-tyrion-there-are-no",
+        "date": "2019-03-10 20:01:07 GMT",
+        "timestamp": 1552248067,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "BEClgICb",
+        "tags": [
+            "got",
+            "game of thrones",
+            "daenerys targaryen",
+            "tyrion lannister",
+            "incorrect got",
+            "incorrect game of thrones quotes",
+            "incorrect quotes",
+            "the queens hand",
+            "game of thrones season 7"
+        ],
+        "short_url": "https://tmblr.co/ZqRm9X2gnKNQt",
+        "summary": "Daenerys: This is a bad idea. Tyrion: There are no bad ideas, Danaerys. Only great ideas which go horribly wrong.",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 69,
+        "title": null,
+        "body": "<p><b>Daenerys: </b>This is a bad idea.</p><p><b>Tyrion: </b>There are no bad ideas, Danaerys. Only great ideas which go horribly wrong.</p>",
+        "reblog": {
+            "comment": "<p><b>Daenerys: </b>This is a bad idea.</p><p><b>Tyrion: </b>There are no bad ideas, Danaerys. Only great ideas which go horribly wrong.</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "somegotthoughts",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 649,
+                        "header_full_height": 649,
+                        "header_focus_width": 649,
+                        "header_focus_height": 365,
+                        "avatar_shape": "square",
+                        "background_color": "#B42F32",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "106,649,471,0",
+                        "header_image": "https://static.tumblr.com/7d5fcc539080551b3f3aebe5bac23dca/y3q8r9f/MHyprb96u/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/dc33bc2264017d0e0250fd60ac86f4bd/y3q8r9f/qsVprb96v/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/7d5fcc539080551b3f3aebe5bac23dca/y3q8r9f/MHyprb96u/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#FFFFFF",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#FFFFFF",
+                        "title_font": "Streetscript",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183363532471"
+                },
+                "content_raw": "<p><b>Daenerys: </b>This is a bad idea.</p><p><b>Tyrion: </b>There are no bad ideas, Danaerys. Only great ideas which go horribly wrong.</p>",
+                "content": "<p><b>Daenerys: </b>This is a bad idea.</p><p><b>Tyrion: </b>There are no bad ideas, Danaerys. Only great ideas which go horribly wrong.</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "answer",
+        "blog_name": "fcparagon",
+        "blog": {
+            "name": "fcparagon",
+            "title": "Jonerys Rulez",
+            "description": "Didn't know Jonerys would consume my soul",
+            "url": "https://fcparagon.tumblr.com/",
+            "uuid": "t:Wn650-OBqx2SYGEUoebaRg",
+            "updated": 1561608301
+        },
+        "id": 183363255713,
+        "post_url": "https://fcparagon.tumblr.com/post/183363255713/i-agree-with-you-that-ygritte-in-the-show-was-not",
+        "slug": "i-agree-with-you-that-ygritte-in-the-show-was-not",
+        "date": "2019-03-10 19:48:12 GMT",
+        "timestamp": 1552247292,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "g1uaAXCG",
+        "tags": [
+            "jon snow",
+            "ygritte",
+            "daenerys targaryen"
+        ],
+        "short_url": "https://tmblr.co/Zj83Vd2gnJJsX",
+        "summary": "i agree with you that ygritte in the show was not as bad as drogo. she was annoying to me, but i do think that she loved jon....",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 19,
+        "asking_name": "Anonymous",
+        "asking_url": null,
+        "question": "i agree with you that ygritte in the show was not as bad as drogo. she was annoying to me, but i do think that she loved jon. however I didn\u2018t like that relationship at all. she would have never accepeted the real jon. the one we have now, who fights for what is right and is true to his words. i think that at the end of the day she also tried to change him into something he wasn\u2018t and that she really didn\u2018t care about anything else except her and jon.",
+        "answer": "<p>Well, I do think she would accept Jon the way he is, all noble and good. But what would happen is that both would constantly be in conflict, since their opinions differ from one another. It\u2019s one of the reasons Jon and Dany match. Their ideas, their sense of morality, matches with one another. Ygritte was trying to change him into being a Wildling, and that is where the line draws really. She wanted him to be loyal to only her, which wasn\u2019t acceptable to Jon since he was also loyal to the NW. Regardless of that, I can\u2019t blame her for wanting nothing else but her and Jon. She\u2019s strong, but she comes from simple life, and she\u2019s met this handsome man who makes her happy. In a way it is selfish, but considering the number of struggles Wildlings go through, I don\u2019t blame her for having this dream.</p>",
+        "reblog": {
+            "comment": "<p>Well, I do think she would accept Jon the way he is, all noble and good. But what would happen is that both would constantly be in conflict, since their opinions differ from one another. It\u2019s one of the reasons Jon and Dany match. Their ideas, their sense of morality, matches with one another. Ygritte was trying to change him into being a Wildling, and that is where the line draws really. She wanted him to be loyal to only her, which wasn\u2019t acceptable to Jon since he was also loyal to the NW. Regardless of that, I can\u2019t blame her for wanting nothing else but her and Jon. She\u2019s strong, but she comes from simple life, and she\u2019s met this handsome man who makes her happy. In a way it is selfish, but considering the number of struggles Wildlings go through, I don\u2019t blame her for having this dream.</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "fcparagon",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 540,
+                        "header_full_height": 306,
+                        "header_focus_width": 420,
+                        "header_focus_height": 236,
+                        "avatar_shape": "square",
+                        "background_color": "#ffffff",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "2,480,238,60",
+                        "header_image": "https://static.tumblr.com/d7acc085ade6ecd9cdb2d914d4cfd790/gh2krsy/0Ocpmitzr/tumblr_static_2e2dd7awd5j4c0w084o4scwko.jpg",
+                        "header_image_focused": "https://static.tumblr.com/f0dc8fa45212f155ddc2f0b9909ab24b/gh2krsy/dE0pmitzs/tumblr_static_tumblr_static_2e2dd7awd5j4c0w084o4scwko_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/d7acc085ade6ecd9cdb2d914d4cfd790/gh2krsy/0Ocpmitzr/tumblr_static_2e2dd7awd5j4c0w084o4scwko_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#131127",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#000000",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183363255713"
+                },
+                "content_raw": "<p>Well, I do think she would accept Jon the way he is, all noble and good. But what would happen is that both would constantly be in conflict, since their opinions differ from one another. It\u2019s one of the reasons Jon and Dany match. Their ideas, their sense of morality, matches with one another. Ygritte was trying to change him into being a Wildling, and that is where the line draws really. She wanted him to be loyal to only her, which wasn\u2019t acceptable to Jon since he was also loyal to the NW. Regardless of that, I can\u2019t blame her for wanting nothing else but her and Jon. She\u2019s strong, but she comes from simple life, and she\u2019s met this handsome man who makes her happy. In a way it is selfish, but considering the number of struggles Wildlings go through, I don\u2019t blame her for having this dream.</p>",
+                "content": "<p>Well, I do think she would accept Jon the way he is, all noble and good. But what would happen is that both would constantly be in conflict, since their opinions differ from one another. It&rsquo;s one of the reasons Jon and Dany match. Their ideas, their sense of morality, matches with one another. Ygritte was trying to change him into being a Wildling, and that is where the line draws really. She wanted him to be loyal to only her, which wasn&rsquo;t acceptable to Jon since he was also loyal to the NW. Regardless of that, I can&rsquo;t blame her for wanting nothing else but her and Jon. She&rsquo;s strong, but she comes from simple life, and she&rsquo;s met this handsome man who makes her happy. In a way it is selfish, but considering the number of struggles Wildlings go through, I don&rsquo;t blame her for having this dream.</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "cvogia",
+        "blog": {
+            "name": "cvogia",
+            "title": "",
+            "description": "",
+            "url": "https://cvogia.tumblr.com/",
+            "uuid": "t:h-jcH_xopRmjK_CT8ff0jg",
+            "updated": 1552602328
+        },
+        "id": 183363014520,
+        "post_url": "https://cvogia.tumblr.com/post/183363014520/bride-of-fire",
+        "slug": "bride-of-fire",
+        "date": "2019-03-10 19:36:32 GMT",
+        "timestamp": 1552246592,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "r5CeRWPD",
+        "tags": [
+            "daenerys targaryen"
+        ],
+        "short_url": "https://tmblr.co/ZzbjQs2gnIOzu",
+        "summary": "Bride of Fire",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 66,
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"1136\" data-orig-width=\"789\"><img src=\"https://66.media.tumblr.com/ea9e17019ffea7e0a23fba2c33a8a771/tumblr_po614vX6Kl1rkyhdc_540.jpg\" data-orig-height=\"1136\" data-orig-width=\"789\"/></figure><p data-npf=\"{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&amp;t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw&quot;,&quot;display_url&quot;:&quot;https://www.deviantart.com/cvogia/art/Bride-of-Fire-705569260&quot;,&quot;title&quot;:&quot;Bride of Fire&quot;,&quot;description&quot;:&quot;Finally it's done! Note that this is the final version of \\&quot;Save the North\\&quot; (wip)... i guess i changed my mind about the title (). It's drawn&quot;,&quot;site_name&quot;:&quot;DeviantArt&quot;,&quot;poster&quot;:[{&quot;url&quot;:&quot;https://66.media.tumblr.com/1a6750876a5906a2902f532f9f933f9b/tumblr_po60y5mbY01rkyhdc_540.jpg&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:745,&quot;height&quot;:1073}]}\" class=\"npf_link\"><a href=\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&amp;t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\" target=\"_blank\">Bride of Fire</a></p><p>Bride of Fire </p>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"1136\" data-orig-width=\"789\"><img src=\"https://66.media.tumblr.com/ea9e17019ffea7e0a23fba2c33a8a771/tumblr_po614vX6Kl1rkyhdc_540.jpg\" data-orig-height=\"1136\" data-orig-width=\"789\"></figure><p data-npf=\"{\"type\":\"link\",\"url\":\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\",\"display_url\":\"https://www.deviantart.com/cvogia/art/Bride-of-Fire-705569260\",\"title\":\"Bride of Fire\",\"description\":\"Finally it's done! Note that this is the final version of \\\"Save the North\\\" (wip)... i guess i changed my mind about the title (). It's drawn\",\"site_name\":\"DeviantArt\",\"poster\":[{\"url\":\"https://66.media.tumblr.com/1a6750876a5906a2902f532f9f933f9b/tumblr_po60y5mbY01rkyhdc_540.jpg\",\"type\":\"image/jpeg\",\"width\":745,\"height\":1073}]}\" class=\"npf_link\"><a href=\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\" target=\"_blank\">Bride of Fire</a></p><p>Bride of Fire </p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "cvogia",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1268,
+                        "header_full_height": 1280,
+                        "header_focus_width": 1205,
+                        "header_focus_height": 678,
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "287,1267,965,62",
+                        "header_image": "https://static.tumblr.com/84cc9a9182d0b08b627316bab26c73bf/cqmd5de/0Qppo94z2/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/d5366099d085ba0e17d58fb93dae5ef4/cqmd5de/rzSpo951u/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/84cc9a9182d0b08b627316bab26c73bf/cqmd5de/0Qppo94z2/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": false,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183363014520"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"1136\" data-orig-width=\"789\"><img src=\"https://66.media.tumblr.com/ea9e17019ffea7e0a23fba2c33a8a771/tumblr_po614vX6Kl1rkyhdc_540.jpg\" data-orig-height=\"1136\" data-orig-width=\"789\"></figure><p data-npf=\"{\"type\":\"link\",\"url\":\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\",\"display_url\":\"https://www.deviantart.com/cvogia/art/Bride-of-Fire-705569260\",\"title\":\"Bride of Fire\",\"description\":\"Finally it's done! Note that this is the final version of \\\"Save the North\\\" (wip)... i guess i changed my mind about the title (). It's drawn\",\"site_name\":\"DeviantArt\",\"poster\":[{\"url\":\"https://66.media.tumblr.com/1a6750876a5906a2902f532f9f933f9b/tumblr_po60y5mbY01rkyhdc_540.jpg\",\"type\":\"image/jpeg\",\"width\":745,\"height\":1073}]}\" class=\"npf_link\"><a href=\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\" target=\"_blank\">Bride of Fire</a></p><p>Bride of Fire </p></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/ea9e17019ffea7e0a23fba2c33a8a771/tumblr_po614vX6Kl1rkyhdc_540.jpg\" class=\"\"/></figure><p data-npf=\"{\" class=\"npf_link\"><a href=\"https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.deviantart.com%2Fcvogia%2Fart%2FBride-of-Fire-705569260&amp;t=NDRmODg1MTIwYmU0NGY3ZGNlMjlhYzA0YTBhZTg4MTM3YWEwNjVmNSwyZGYxZTU3NzhhYzUxYzAwZTZmNDlkODJlMTdkYjM1ZDE2MDIxZTUw\" target=\"_blank\">Bride of Fire</a></p><p>Bride of Fire </p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "khaleesifans",
+        "blog": {
+            "name": "khaleesifans",
+            "title": "Khaleesi Fans",
+            "description": "",
+            "url": "https://khaleesifans.tumblr.com/",
+            "uuid": "t:H_ap6IEViwsVSJM1X4rdng",
+            "updated": 1561767269
+        },
+        "id": 183362993408,
+        "post_url": "https://khaleesifans.tumblr.com/post/183362993408/game-of-thrones-t-shirts-httpsgoogl9z3srr",
+        "slug": "game-of-thrones-t-shirts-httpsgoogl9z3srr",
+        "date": "2019-03-10 19:35:30 GMT",
+        "timestamp": 1552246530,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "LPArkzCQ",
+        "tags": [
+            "game of thrones",
+            "got",
+            "emilia clarke",
+            "khaleesi",
+            "daenerys targaryen"
+        ],
+        "short_url": "https://tmblr.co/ZFka5q2gnIJq0",
+        "summary": "Game of Thrones T-Shirts: https://goo.gl/9Z3SrR",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 2,
+        "caption": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+        "reblog": {
+            "comment": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "khaleesifans",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362993408"
+                },
+                "content_raw": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+                "content": "<p>Game of Thrones T-Shirts: <a href=\"https://goo.gl/9Z3SrR\">https://goo.gl/9Z3SrR</a></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://khaleesifans.tumblr.com/image/183362993408",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_1280.jpg",
+                    "width": 902,
+                    "height": 720
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_1280.jpg",
+                        "width": 902,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_640.jpg",
+                        "width": 640,
+                        "height": 511
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_540.jpg",
+                        "width": 540,
+                        "height": 431
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_500.jpg",
+                        "width": 500,
+                        "height": 399
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_400.jpg",
+                        "width": 400,
+                        "height": 319
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_250.jpg",
+                        "width": 250,
+                        "height": 200
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_100.jpg",
+                        "width": 100,
+                        "height": 80
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/e904887d5e8d6d7b15577985ba99945a/tumblr_pnwc330cTH1sm30qco1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "rubyredwisp",
+        "blog": {
+            "name": "rubyredwisp",
+            "title": "dragons and direwolves",
+            "description": "\u2655 Jenna. 20s. Mainly GoT and ASoIaF.",
+            "url": "https://rubyredwisp.tumblr.com/",
+            "uuid": "t:gDslxfiHG5UK_BnmEsU8Xg",
+            "updated": 1560004810
+        },
+        "id": 183362890540,
+        "post_url": "https://rubyredwisp.tumblr.com/post/183362890540/it-was-a-sea-dany-thought-past-here-there-were",
+        "slug": "it-was-a-sea-dany-thought-past-here-there-were",
+        "date": "2019-03-10 19:30:23 GMT",
+        "timestamp": 1552246223,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "JZYtGnIZ",
+        "tags": [
+            "gotedit",
+            "gotdaenerystargaryen",
+            "daenerys targaryen",
+            "game of thrones",
+            "gots1",
+            "gots1e3",
+            "edit: game of thrones",
+            "edit1",
+            "dothraki sea",
+            "gotrewatch2019",
+            "one of the prettiest scenes in the show"
+        ],
+        "short_url": "https://tmblr.co/ZPr-Cx2gnHwii",
+        "summary": "It was a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 1630,
+        "caption": "<p><small>It <i>was</i> a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless grasses, the tall blades rippling like waves when the winds blew. &ldquo;It&rsquo;s so green,&rdquo; she said.</small></p>",
+        "reblog": {
+            "comment": "<p><small>It <i>was</i> a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless grasses, the tall blades rippling like waves when the winds blew. \u201cIt\u2019s so green,\u201d she said.</small></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "rubyredwisp",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 600,
+                        "header_full_height": 600,
+                        "header_focus_width": 600,
+                        "header_focus_height": 337,
+                        "avatar_shape": "circle",
+                        "background_color": "#EEEEEE",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "17,600,354,0",
+                        "header_image": "https://static.tumblr.com/729c339d5a99aa440765e4e3ce6af385/91oizqz/fYRpnvpsw/tumblr_static_dd0eados36og0ksk00wocco8o.png",
+                        "header_image_focused": "https://static.tumblr.com/76519a8203cdafd786c9ae150dcac38c/91oizqz/NOCpnvpsz/tumblr_static_tumblr_static_dd0eados36og0ksk00wocco8o_focused_v3.png",
+                        "header_image_scaled": "https://static.tumblr.com/729c339d5a99aa440765e4e3ce6af385/91oizqz/fYRpnvpsw/tumblr_static_dd0eados36og0ksk00wocco8o_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#444444",
+                        "show_avatar": false,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#222222",
+                        "title_font": "Pratt Pro",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362890540"
+                },
+                "content_raw": "<p><small>It <i>was</i> a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless grasses, the tall blades rippling like waves when the winds blew. \u201cIt\u2019s so green,\u201d she said.</small></p>",
+                "content": "<p><small>It <i>was</i> a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless grasses, the tall blades rippling like waves when the winds blew. &ldquo;It&rsquo;s so green,&rdquo; she said.</small></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "photoset_layout": "111",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_540.gif",
+                    "width": 540,
+                    "height": 275
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_540.gif",
+                        "width": 540,
+                        "height": 275
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_500.gif",
+                        "width": 500,
+                        "height": 255
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_400.gif",
+                        "width": 400,
+                        "height": 204
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_250.gif",
+                        "width": 250,
+                        "height": 127
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_100.gif",
+                        "width": 100,
+                        "height": 51
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8d6787b4fe6053cc7af0fbf7e705b913/tumblr_po5avoQ6e71r00543o1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_540.gif",
+                    "width": 540,
+                    "height": 275
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_540.gif",
+                        "width": 540,
+                        "height": 275
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_500.gif",
+                        "width": 500,
+                        "height": 255
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_400.gif",
+                        "width": 400,
+                        "height": 204
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_250.gif",
+                        "width": 250,
+                        "height": 127
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_100.gif",
+                        "width": 100,
+                        "height": 51
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/413ee6dece84095779bc7ed38e5fe2c3/tumblr_po5avoQ6e71r00543o2_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            },
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_540.gif",
+                    "width": 540,
+                    "height": 275
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_540.gif",
+                        "width": 540,
+                        "height": 275
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_500.gif",
+                        "width": 500,
+                        "height": 255
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_400.gif",
+                        "width": 400,
+                        "height": 204
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_250.gif",
+                        "width": 250,
+                        "height": 127
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_100.gif",
+                        "width": 100,
+                        "height": 51
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/f8013ab76b3a4e0129b0fdfd00b360bc/tumblr_po5avoQ6e71r00543o3_r1_75sq.gif",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "mbciredoughty",
+        "blog": {
+            "name": "mbciredoughty",
+            "title": "The Curious Craftsman",
+            "description": "#romancingthepixel Hopeless Romantic, Period Drama \ud83d\udc95Obsassenach, Curious Graphic Craftsman, Upcyling Repurposer &amp; All-around Creative Junkie #curiouscraftsman",
+            "url": "https://mbciredoughty.tumblr.com/",
+            "uuid": "t:A26vFVuoAO0JkwKfoC8N7w",
+            "updated": 1555760145
+        },
+        "id": 183362804951,
+        "post_url": "https://mbciredoughty.tumblr.com/post/183362804951/lady-in-red-the-camera-just-loves-our",
+        "slug": "lady-in-red-the-camera-just-loves-our",
+        "date": "2019-03-10 19:26:20 GMT",
+        "timestamp": 1552245980,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "yPnfCdwB",
+        "tags": [
+            "curiouscraftsman",
+            "romancingthepixel",
+            "emilia clarke",
+            "game of thrones",
+            "daenerys targaryen",
+            "game of thrones fan art"
+        ],
+        "short_url": "https://tmblr.co/Zx3wAe2gnHbpN",
+        "summary": "Lady in Red! The camera just loves our #emiliaclarke ... What a beauty she is! I.Just.Can\u2019t.Stop.Rendering! #romancingthepixel...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 3,
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"1279\"><img src=\"https://66.media.tumblr.com/52580a89c60e69215440663a25036466/tumblr_po60nwDODW1ujr5l4_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"1279\"/></figure><p>Lady in Red! The camera just loves our #emiliaclarke &hellip; What a beauty she is! I.Just.Can\u2019t.Stop.Rendering! #romancingthepixel #curiouscraftsman #daenerystargaryen #gameofthrones #gotart #gotart_</p>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"1279\"><img src=\"https://66.media.tumblr.com/52580a89c60e69215440663a25036466/tumblr_po60nwDODW1ujr5l4_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"1279\"></figure><p>Lady in Red! The camera just loves our #emiliaclarke \u2026 What a beauty she is! I.Just.Can\u2019t.Stop.Rendering! #romancingthepixel #curiouscraftsman #daenerystargaryen #gameofthrones #gotart #gotart_</p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "mbciredoughty",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 2164,
+                        "header_full_height": 2186,
+                        "header_focus_width": 1515,
+                        "header_focus_height": 852,
+                        "avatar_shape": "square",
+                        "background_color": "#b0aa9b",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "137,1943,989,428",
+                        "header_image": "https://static.tumblr.com/04441f4abf0c83cfdf959b7ad4d51bfc/eul1vtw/SaZprpyyh/tumblr_static_3lcyg2uzc1k444w8wwwo08kg0.jpg",
+                        "header_image_focused": "https://static.tumblr.com/3a4cf647d90116b965969e2a04b3cb5e/eul1vtw/G7sprpyyl/tumblr_static_tumblr_static_3lcyg2uzc1k444w8wwwo08kg0_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/04441f4abf0c83cfdf959b7ad4d51bfc/eul1vtw/SaZprpyyh/tumblr_static_3lcyg2uzc1k444w8wwwo08kg0_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#000000",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#ffffff",
+                        "title_font": "Garamond Classic FS",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362804951"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"1279\"><img src=\"https://66.media.tumblr.com/52580a89c60e69215440663a25036466/tumblr_po60nwDODW1ujr5l4_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"1279\"></figure><p>Lady in Red! The camera just loves our #emiliaclarke \u2026 What a beauty she is! I.Just.Can\u2019t.Stop.Rendering! #romancingthepixel #curiouscraftsman #daenerystargaryen #gameofthrones #gotart #gotart_</p></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/52580a89c60e69215440663a25036466/tumblr_po60nwDODW1ujr5l4_540.jpg\" class=\"\"/></figure><p>Lady in Red! The camera just loves our #emiliaclarke &hellip; What a beauty she is! I.Just.Can&rsquo;t.Stop.Rendering! #romancingthepixel #curiouscraftsman #daenerystargaryen #gameofthrones #gotart #gotart_</p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "augustleofamily",
+        "blog": {
+            "name": "augustleofamily",
+            "title": "Daenerys Targaryen\ud83d\udc9dJon Snow\ud83d\udc99Arya Stark\ud83d\udc9aJonerys\u2764",
+            "description": "",
+            "url": "https://augustleofamily.tumblr.com/",
+            "uuid": "t:155bcvSqbPZduXGwj8JXtQ",
+            "updated": 1556991726
+        },
+        "id": 183362795765,
+        "post_url": "https://augustleofamily.tumblr.com/post/183362795765/the-dany-hate-is-strong",
+        "slug": "the-dany-hate-is-strong",
+        "date": "2019-03-10 19:25:47 GMT",
+        "timestamp": 1552245947,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "7ursaALz",
+        "tags": [
+            "game of thrones",
+            "anti sansa stans",
+            "anti jonsa",
+            "daenerys targaryen",
+            "logic flew out the window"
+        ],
+        "short_url": "https://tmblr.co/Z69DXX2gnHZZr",
+        "summary": "The Dany hate is strong.",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 6,
+        "title": null,
+        "body": "<h1>The Dany hate is strong.</h1><p>The hate for Dany is so strong in certain parts of the Fandom that I think some would even go for the idea of the NK teaming up with the Starks to end her. The Lannisters have been trying to wipe out the Stark&rsquo;s and in some instances have been successful and people are really hoping that Cersei can team up with the Stark&rsquo;s to take out Dany\ud83d\ude32 It&rsquo;s like,to hell with Ned,Robb,Talisa,Catelyn and by association Ricon. Dany being taken out so that she is out of the way of a certain crackship is more important than dealing with the family who is responsible for the almost demise of the Stark&rsquo;s. I don&rsquo;t even know why am acting surprised when these are some of the same people who are foaming at the mouth that Jamie is going to pledge his sword to the Redhead in the North,the same man who is responsible for Bran almost dying and being a cripple,killing Jory and almost killing Ned. But I guess as long as Jon gets to bang the Redhead all is well with some. I love Dany and by no means do I think she is perfect but when you have people wanting her demise instead of Jamie and Cersei who have fucked over the Stark&rsquo;s(which these people claim to love)something is seriously wrong somewhere.</p>",
+        "reblog": {
+            "comment": "<p><h1>The Dany hate is strong.</h1><p>The hate for Dany is so strong in certain parts of the Fandom that I think some would even go for the idea of the NK teaming up with the Starks to end her. The Lannisters have been trying to wipe out the Stark\u2019s and in some instances have been successful and people are really hoping that Cersei can team up with the Stark\u2019s to take out Dany\ud83d\ude32 It\u2019s like,to hell with Ned,Robb,Talisa,Catelyn and by association Ricon. Dany being taken out so that she is out of the way of a certain crackship is more important than dealing with the family who is responsible for the almost demise of the Stark\u2019s. I don\u2019t even know why am acting surprised when these are some of the same people who are foaming at the mouth that Jamie is going to pledge his sword to the Redhead in the North,the same man who is responsible for Bran almost dying and being a cripple,killing Jory and almost killing Ned. But I guess as long as Jon gets to bang the Redhead all is well with some. I love Dany and by no means do I think she is perfect but when you have people wanting her demise instead of Jamie and Cersei who have fucked over the Stark\u2019s(which these people claim to love)something is seriously wrong somewhere.</p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "augustleofamily",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://static.tumblr.com/f5b1b9d4ec4b132a5fa1cdd93254aa4e/oij9gsk/Saqpmllev/tumblr_static_-518291368-content.jpg",
+                        "header_image_focused": "https://static.tumblr.com/f5b1b9d4ec4b132a5fa1cdd93254aa4e/oij9gsk/Saqpmllev/tumblr_static_-518291368-content_2048_v2.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/f5b1b9d4ec4b132a5fa1cdd93254aa4e/oij9gsk/Saqpmllev/tumblr_static_-518291368-content_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Calluna",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362795765"
+                },
+                "content_raw": "<p><h1>The Dany hate is strong.</h1><p>The hate for Dany is so strong in certain parts of the Fandom that I think some would even go for the idea of the NK teaming up with the Starks to end her. The Lannisters have been trying to wipe out the Stark\u2019s and in some instances have been successful and people are really hoping that Cersei can team up with the Stark\u2019s to take out Dany\ud83d\ude32 It\u2019s like,to hell with Ned,Robb,Talisa,Catelyn and by association Ricon. Dany being taken out so that she is out of the way of a certain crackship is more important than dealing with the family who is responsible for the almost demise of the Stark\u2019s. I don\u2019t even know why am acting surprised when these are some of the same people who are foaming at the mouth that Jamie is going to pledge his sword to the Redhead in the North,the same man who is responsible for Bran almost dying and being a cripple,killing Jory and almost killing Ned. But I guess as long as Jon gets to bang the Redhead all is well with some. I love Dany and by no means do I think she is perfect but when you have people wanting her demise instead of Jamie and Cersei who have fucked over the Stark\u2019s(which these people claim to love)something is seriously wrong somewhere.</p></p>",
+                "content": "<p><h1>The Dany hate is strong.</h1><p>The hate for Dany is so strong in certain parts of the Fandom that I think some would even go for the idea of the NK teaming up with the Starks to end her. The Lannisters have been trying to wipe out the Stark&rsquo;s and in some instances have been successful and people are really hoping that Cersei can team up with the Stark&rsquo;s to take out Dany&#128562; It&rsquo;s like,to hell with Ned,Robb,Talisa,Catelyn and by association Ricon. Dany being taken out so that she is out of the way of a certain crackship is more important than dealing with the family who is responsible for the almost demise of the Stark&rsquo;s. I don&rsquo;t even know why am acting surprised when these are some of the same people who are foaming at the mouth that Jamie is going to pledge his sword to the Redhead in the North,the same man who is responsible for Bran almost dying and being a cripple,killing Jory and almost killing Ned. But I guess as long as Jon gets to bang the Redhead all is well with some. I love Dany and by no means do I think she is perfect but when you have people wanting her demise instead of Jamie and Cersei who have fucked over the Stark&rsquo;s(which these people claim to love)something is seriously wrong somewhere.</p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "rhaesyn",
+        "blog": {
+            "name": "rhaesyn",
+            "title": "I\u2019ll Follow Daenerys To The Grave",
+            "description": "<p>Targaryen loyalist | \u2649\ufe0f | trying to restructure to be less GoT related... </p>",
+            "url": "https://rhaesyn.tumblr.com/",
+            "uuid": "t:MTZg1dC2gq6AVbyzyOJXkQ",
+            "updated": 1561168718
+        },
+        "id": 183362791094,
+        "post_url": "https://rhaesyn.tumblr.com/post/183362791094/i-cant-believe-i-made-this",
+        "slug": "i-cant-believe-i-made-this",
+        "date": "2019-03-10 19:25:27 GMT",
+        "timestamp": 1552245927,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "4fHh3bsx",
+        "tags": [
+            "game of thrones",
+            "daenerys targaryen",
+            "jonerys",
+            "jonerysedit",
+            "gotedit",
+            "daenerystargeryenedit",
+            "gotdaenerystargaryen",
+            "jon x daenerys",
+            "daenerys x jorah",
+            "daenerys x daario",
+            "daario naharis",
+            "my humps",
+            "gotjonerys",
+            "jonsnowedit",
+            "jorah mormont",
+            "myvideo"
+        ],
+        "short_url": "https://tmblr.co/ZOguIx2gnHYQs",
+        "summary": "I can\u2019t believe I made this",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 59,
+        "source_url": "https://rhaesyn.tumblr.com",
+        "source_title": "rhaesyn",
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"360\" data-orig-width=\"640\" data-npf='{\"type\":\"video\",\"provider\":\"tumblr\",\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"media\":{\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"type\":\"video/mp4\",\"width\":640,\"height\":360},\"poster\":[{\"url\":\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\",\"type\":\"image/jpeg\",\"width\":640,\"height\":360}]}'><video controls=\"controls\" autoplay=\"autoplay\" muted=\"muted\" poster=\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\"><source src=\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\" type=\"video/mp4\"></source></video></figure><p>I can\u2019t believe I made this</p>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"360\" data-orig-width=\"640\" data-npf='{\"type\":\"video\",\"provider\":\"tumblr\",\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"media\":{\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"type\":\"video/mp4\",\"width\":640,\"height\":360},\"poster\":[{\"url\":\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\",\"type\":\"image/jpeg\",\"width\":640,\"height\":360}]}'><video controls=\"controls\" autoplay=\"autoplay\" muted=\"muted\" poster=\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\"><source src=\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\" type=\"video/mp4\"></source></video></figure><p>I can\u2019t believe I made this</p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "rhaesyn",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 500,
+                        "header_full_height": 600,
+                        "header_focus_width": 500,
+                        "header_focus_height": 281,
+                        "avatar_shape": "circle",
+                        "background_color": "#f9f1f6",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "205,500,486,0",
+                        "header_image": "https://static.tumblr.com/a4d28350c69e6c53b24390fdb7d33898/zkaf5ma/63rpmkmkv/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/4e8ecf65f8f5df7b598ccee1fa7450cd/zkaf5ma/s2Kpmkmkw/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/a4d28350c69e6c53b24390fdb7d33898/zkaf5ma/63rpmkmkv/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#FE3B80",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Caslon FS",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362791094"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"360\" data-orig-width=\"640\" data-npf='{\"type\":\"video\",\"provider\":\"tumblr\",\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"media\":{\"url\":\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\",\"type\":\"video/mp4\",\"width\":640,\"height\":360},\"poster\":[{\"url\":\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\",\"type\":\"image/jpeg\",\"width\":640,\"height\":360}]}'><video controls=\"controls\" autoplay=\"autoplay\" muted=\"muted\" poster=\"https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg\"><source src=\"https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4\" type=\"video/mp4\"></source></video></figure><p>I can\u2019t believe I made this</p></p>",
+                "content": "<p><figure class=\"tmblr-full\" data-npf=\"{&quot;type&quot;:&quot;video&quot;,&quot;provider&quot;:&quot;tumblr&quot;,&quot;url&quot;:&quot;https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4&quot;,&quot;media&quot;:{&quot;url&quot;:&quot;https://ve.media.tumblr.com/tumblr_po60jv1AQu1qm325t.mp4&quot;,&quot;type&quot;:&quot;video/mp4&quot;,&quot;width&quot;:640,&quot;height&quot;:360},&quot;poster&quot;:[{&quot;url&quot;:&quot;https://66.media.tumblr.com/tumblr_po60jv1AQu1qm325t_frame1.jpg&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:640,&quot;height&quot;:360}]}\"></figure><p>I can&rsquo;t believe I made this</p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "targaryens-restoration",
+        "blog": {
+            "name": "targaryens-restoration",
+            "title": "Mother Of Dragons",
+            "description": "",
+            "url": "https://targaryens-restoration.tumblr.com/",
+            "uuid": "t:0fN_IRkhYCEW3lsfQarqzQ",
+            "updated": 1556917388
+        },
+        "id": 183362651437,
+        "post_url": "https://targaryens-restoration.tumblr.com/post/183362651437/screen-time-is-shorter-that-hbo-promised-us-last",
+        "slug": "screen-time-is-shorter-that-hbo-promised-us-last",
+        "date": "2019-03-10 19:18:37 GMT",
+        "timestamp": 1552245517,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "4YwqRW0p",
+        "tags": [
+            "daenerys targaryen",
+            "game of thrones",
+            "season 8",
+            "jon snow",
+            "daenerys stormborn",
+            "jonerys",
+            "house targaryen",
+            "jon x dany",
+            "aegon targaryen",
+            "jon x daenerys",
+            "for the\u00a0 throne",
+            "forthethrone",
+            "anti jonsa stans",
+            "anti jonsa",
+            "house stark",
+            "house stargaryen"
+        ],
+        "short_url": "https://tmblr.co/ZGHd8b2gnH0Kj",
+        "summary": "\u202aScreen time is shorter that HBO promised us last time. And \nJonsa fans thinks again that : \nnew  Love Story,  (Especially...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 4,
+        "title": null,
+        "body": "<p>\u202aScreen time is shorter that HBO promised us last time. And </p><p>Jonsa fans thinks again that : </p><p>new  Love Story,  (Especially great)</p><p>Dance with the Dragons,  </p><p>battle of the Dany/Jon and NK , </p><p>Dark Dany</p><p>Political Jon</p><p>Stark and Lannister allies, </p><p>Kidnaped Plot </p><p>3 war episode is coming?</p><p>\u202aPfffff \ud83e\udd23\ud83e\udd23\ud83e\udd23\u202c</p><figure class=\"tmblr-full\" data-orig-height=\"495\" data-orig-width=\"880\"><img src=\"https://66.media.tumblr.com/7addc70925080a1206828810cd997197/tumblr_po60ayv5tF1vzef6y_540.gif\" data-orig-height=\"495\" data-orig-width=\"880\"/></figure><figure class=\"tmblr-full\" data-orig-height=\"455\" data-orig-width=\"455\"><img src=\"https://66.media.tumblr.com/766bd6b52e515de79468b7b101740ab4/tumblr_po60b1QoMV1vzef6y_540.gif\" data-orig-height=\"455\" data-orig-width=\"455\"/></figure>",
+        "reblog": {
+            "comment": "<p><p>\u202aScreen time is shorter that HBO promised us last time. And </p><p>Jonsa fans thinks again that : </p><p>new  Love Story,  (Especially great)</p><p>Dance with the Dragons,  </p><p>battle of the Dany/Jon and NK , </p><p>Dark Dany</p><p>Political Jon</p><p>Stark and Lannister allies, </p><p>Kidnaped Plot </p><p>3 war episode is coming?</p><p>\u202aPfffff \ud83e\udd23\ud83e\udd23\ud83e\udd23\u202c</p><figure class=\"tmblr-full\" data-orig-height=\"495\" data-orig-width=\"880\"><img src=\"https://66.media.tumblr.com/7addc70925080a1206828810cd997197/tumblr_po60ayv5tF1vzef6y_540.gif\" data-orig-height=\"495\" data-orig-width=\"880\"></figure><figure class=\"tmblr-full\" data-orig-height=\"455\" data-orig-width=\"455\"><img src=\"https://66.media.tumblr.com/766bd6b52e515de79468b7b101740ab4/tumblr_po60b1QoMV1vzef6y_540.gif\" data-orig-height=\"455\" data-orig-width=\"455\"></figure></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "targaryens-restoration",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename.png",
+                        "header_image_focused": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename_2048_v2.png",
+                        "header_image_scaled": "https://static.tumblr.com/c04e84bd283635551a9c60ed130fa82c/bmvgxud/975p5ymhr/tumblr_static_filename_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#C0A4D2",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362651437"
+                },
+                "content_raw": "<p><p>\u202aScreen time is shorter that HBO promised us last time. And </p><p>Jonsa fans thinks again that : </p><p>new  Love Story,  (Especially great)</p><p>Dance with the Dragons,  </p><p>battle of the Dany/Jon and NK , </p><p>Dark Dany</p><p>Political Jon</p><p>Stark and Lannister allies, </p><p>Kidnaped Plot </p><p>3 war episode is coming?</p><p>\u202aPfffff \ud83e\udd23\ud83e\udd23\ud83e\udd23\u202c</p><figure class=\"tmblr-full\" data-orig-height=\"495\" data-orig-width=\"880\"><img src=\"https://66.media.tumblr.com/7addc70925080a1206828810cd997197/tumblr_po60ayv5tF1vzef6y_540.gif\" data-orig-height=\"495\" data-orig-width=\"880\"></figure><figure class=\"tmblr-full\" data-orig-height=\"455\" data-orig-width=\"455\"><img src=\"https://66.media.tumblr.com/766bd6b52e515de79468b7b101740ab4/tumblr_po60b1QoMV1vzef6y_540.gif\" data-orig-height=\"455\" data-orig-width=\"455\"></figure></p>",
+                "content": "<p><p>&#8234;Screen time is shorter that HBO promised us last time. And </p><p>Jonsa fans thinks again that : </p><p>new  Love Story,  (Especially great)</p><p>Dance with the Dragons,  </p><p>battle of the Dany/Jon and NK , </p><p>Dark Dany</p><p>Political Jon</p><p>Stark and Lannister allies, </p><p>Kidnaped Plot </p><p>3 war episode is coming?</p><p>&#8234;Pfffff &#129315;&#129315;&#129315;&#8236;</p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/7addc70925080a1206828810cd997197/tumblr_po60ayv5tF1vzef6y_540.gif\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/766bd6b52e515de79468b7b101740ab4/tumblr_po60b1QoMV1vzef6y_540.gif\" class=\"\"/></figure></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "itsgameofthronesimagines",
+        "blog": {
+            "name": "itsgameofthronesimagines",
+            "title": "Valar Morghulis",
+            "description": "Welcome to my Game of Thrones Imagines blog! Here: ships, requests, and fun are all welcome here! One-shots, drabbles, imagines, fake instagram, incorrect quotes, theories, debates, ships, smut are also allowed! Send writing prompt and ship requests! Boy, Girl, etc. Imagines. All sexual orientation and personal likes are welcomed here! Enjoy! (Requests: OPEN!)\nPrompts: http://writingexercises.co.uk/dialogue-generator.php",
+            "url": "https://itsgameofthronesimagines.tumblr.com/",
+            "uuid": "t:fpzWPl1AZhTXsN5ZDfsIpw",
+            "updated": 1560016621
+        },
+        "id": 183362522671,
+        "post_url": "https://itsgameofthronesimagines.tumblr.com/post/183362522671/instructor-release-all-the-sounds-that-are",
+        "slug": "instructor-release-all-the-sounds-that-are",
+        "date": "2019-03-10 19:12:13 GMT",
+        "timestamp": 1552245133,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "jH1SovRU",
+        "tags": [
+            "game of thrones",
+            "got",
+            "asoiaf",
+            "daenerys targaryen",
+            "the game of thrones",
+            "a song of ice and fire",
+            "asongoficeandfire",
+            "daenerys stormborn",
+            "emilia clarke",
+            "incorrect got quotes",
+            "game of thrones incorrect quotes",
+            "incorrect game of thrones quotes",
+            "incorrect quotes"
+        ],
+        "short_url": "https://tmblr.co/ZINcRX2gnGWul",
+        "summary": "Instructor: Release all the sounds that are trapped in your mind.\nDaenerys:...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 39,
+        "title": null,
+        "body": "<p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Instructor:</b> Release all the sounds that are trapped in your mind.</p><p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Daenerys:</b> AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</p>",
+        "reblog": {
+            "comment": "<p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Instructor:</b> Release all the sounds that are trapped in your mind.</p><p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Daenerys:</b> AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "itsgameofthronesimagines",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1136,
+                        "header_full_height": 640,
+                        "header_focus_width": 1136,
+                        "header_focus_height": 638,
+                        "avatar_shape": "square",
+                        "background_color": "#bb0303",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,1136,638,0",
+                        "header_image": "https://static.tumblr.com/46e03403b075209c90c9513c70849985/tnt5hu2/BOGprskx1/tumblr_static_-511913427-content.jpg",
+                        "header_image_focused": "https://static.tumblr.com/3c692bef239b6373b26892a0f0703bdb/tnt5hu2/yvaprskx3/tumblr_static_tumblr_static_-511913427-content_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/46e03403b075209c90c9513c70849985/tnt5hu2/BOGprskx1/tumblr_static_-511913427-content_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#F2992E",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#000000",
+                        "title_font": "Calluna",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "183362522671"
+                },
+                "content_raw": "<p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Instructor:</b> Release all the sounds that are trapped in your mind.</p><p class=\"npf_chat\" data-npf='{\"subtype\":\"chat\"}'><b>Daenerys:</b> AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</p>",
+                "content": "<p class=\"npf_chat\" data-npf=\"{&quot;subtype&quot;:&quot;chat&quot;}\"><b>Instructor:</b> Release all the sounds that are trapped in your mind.</p><p class=\"npf_chat\" data-npf=\"{&quot;subtype&quot;:&quot;chat&quot;}\"><b>Daenerys:</b> AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    }
+]

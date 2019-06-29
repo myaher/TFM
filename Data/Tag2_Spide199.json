@@ -1,0 +1,1971 @@
+[
+    {
+        "type": "photo",
+        "blog_name": "koalas-koalas-everywhere",
+        "blog": {
+            "name": "koalas-koalas-everywhere",
+            "title": "Welp",
+            "description": "I've added a fic I wrote. As a new page. If things go well, I might write more fics here - if not, I'll keep to AO3.",
+            "url": "https://koalas-koalas-everywhere.tumblr.com/",
+            "uuid": "t:Z-BfGyGoqHpNc959cfEFgA",
+            "updated": 1561757657
+        },
+        "id": 181025403345,
+        "post_url": "https://koalas-koalas-everywhere.tumblr.com/post/181025403345/a-crime",
+        "slug": "a-crime",
+        "date": "2018-12-11 20:37:51 GMT",
+        "timestamp": 1544560671,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "zwzZbRte",
+        "tags": [
+            "Spider-Man",
+            "Spider Man",
+            "Peter Parker",
+            "live blogging",
+            "comics",
+            "Mary Jane Watson",
+            "MJ",
+            "Mary Jane Parker",
+            "Mary Jane Watson Parker",
+            "PeterMJ",
+            "ASM 306",
+            "Amazing Spider Man"
+        ],
+        "short_url": "https://tmblr.co/ZAQgis2ebz77H",
+        "summary": "A crime.",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 6,
+        "caption": "<p>A crime.</p>",
+        "reblog": {
+            "comment": "<p>A crime.</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "koalas-koalas-everywhere",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#20f3b3",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Avalon",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181025403345"
+                },
+                "content_raw": "<p>A crime.</p>",
+                "content": "<p>A crime.</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://koalas-koalas-everywhere.tumblr.com/image/181025403345",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_1280.png",
+                    "width": 863,
+                    "height": 421
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_1280.png",
+                        "width": 863,
+                        "height": 421
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_640.png",
+                        "width": 640,
+                        "height": 312
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_540.png",
+                        "width": 540,
+                        "height": 263
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_500.png",
+                        "width": 500,
+                        "height": 244
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_400.png",
+                        "width": 400,
+                        "height": 195
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_250.png",
+                        "width": 250,
+                        "height": 122
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_100.png",
+                        "width": 100,
+                        "height": 49
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/fae43fd2a7d7c160924d77212dabfe04/tumblr_pjlan3s0HH1s9071ho1_75sq.png",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "koalas-koalas-everywhere",
+        "blog": {
+            "name": "koalas-koalas-everywhere",
+            "title": "Welp",
+            "description": "I've added a fic I wrote. As a new page. If things go well, I might write more fics here - if not, I'll keep to AO3.",
+            "url": "https://koalas-koalas-everywhere.tumblr.com/",
+            "uuid": "t:Z-BfGyGoqHpNc959cfEFgA",
+            "updated": 1561757657
+        },
+        "id": 181025236950,
+        "post_url": "https://koalas-koalas-everywhere.tumblr.com/post/181025236950/the-marvel-sliding-time-scale-doesnt-work",
+        "slug": "the-marvel-sliding-time-scale-doesnt-work",
+        "date": "2018-12-11 20:31:13 GMT",
+        "timestamp": 1544560273,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "U0hYpYHJ",
+        "tags": [
+            "Spider-Man",
+            "Spider Man",
+            "Peter Parker",
+            "live blogging",
+            "comics"
+        ],
+        "short_url": "https://tmblr.co/ZAQgis2ebyUVM",
+        "summary": "\u201cThe Marvel Sliding Time-Scale doesn\u2019t work because Peter would have graduated at 16 :/\u201d  Graduating at 16???? Forget that,...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 4,
+        "title": null,
+        "body": "<p>\u201cThe Marvel Sliding Time-Scale doesn\u2019t work because Peter would have graduated at 16 :/\u201d<br/></p><p>Graduating at 16???? Forget that, pal!!! That\u2019s the least of his problems!!! His girlfriend was getting engaged when he was 16!!! He was planning on proposing when he was 16!!!! Aunt May expected him to be engaged for any relationship of his to be valid enough that he wouldn\u2019t try to set him up with the neighbour\u2019s niece at 15!!!! The Death of Gwen Stacy happened in 1973!!! That\u2019s 10 years after his first appearance!!!! Going by the Sliding Time-Scale, 2 years had passed!!! He was 17 and talking about marriage with his girlfriend!!!! He was barely legal when he was having sex on rooftops with Felicia Hardy!!! </p>",
+        "reblog": {
+            "comment": "<p>\u201cThe Marvel Sliding Time-Scale doesn\u2019t work because Peter would have graduated at 16 :/\u201d<br></p><p>Graduating at 16???? Forget that, pal!!! That\u2019s the least of his problems!!! His girlfriend was getting engaged when he was 16!!! He was planning on proposing when he was 16!!!! Aunt May expected him to be engaged for any relationship of his to be valid enough that he wouldn\u2019t try to set him up with the neighbour\u2019s niece at 15!!!! The Death of Gwen Stacy happened in 1973!!! That\u2019s 10 years after his first appearance!!!! Going by the Sliding Time-Scale, 2 years had passed!!! He was 17 and talking about marriage with his girlfriend!!!! He was barely legal when he was having sex on rooftops with Felicia Hardy!!! </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "koalas-koalas-everywhere",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#20f3b3",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Avalon",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181025236950"
+                },
+                "content_raw": "<p>\u201cThe Marvel Sliding Time-Scale doesn\u2019t work because Peter would have graduated at 16 :/\u201d<br></p><p>Graduating at 16???? Forget that, pal!!! That\u2019s the least of his problems!!! His girlfriend was getting engaged when he was 16!!! He was planning on proposing when he was 16!!!! Aunt May expected him to be engaged for any relationship of his to be valid enough that he wouldn\u2019t try to set him up with the neighbour\u2019s niece at 15!!!! The Death of Gwen Stacy happened in 1973!!! That\u2019s 10 years after his first appearance!!!! Going by the Sliding Time-Scale, 2 years had passed!!! He was 17 and talking about marriage with his girlfriend!!!! He was barely legal when he was having sex on rooftops with Felicia Hardy!!! </p>",
+                "content": "<p>&ldquo;The Marvel Sliding Time-Scale doesn&rsquo;t work because Peter would have graduated at 16 :/&rdquo;<br /></p><p>Graduating at 16???? Forget that, pal!!! That&rsquo;s the least of his problems!!! His girlfriend was getting engaged when he was 16!!! He was planning on proposing when he was 16!!!! Aunt May expected him to be engaged for any relationship of his to be valid enough that he wouldn&rsquo;t try to set him up with the neighbour&rsquo;s niece at 15!!!! The Death of Gwen Stacy happened in 1973!!! That&rsquo;s 10 years after his first appearance!!!! Going by the Sliding Time-Scale, 2 years had passed!!! He was 17 and talking about marriage with his girlfriend!!!! He was barely legal when he was having sex on rooftops with Felicia Hardy!!! </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "deer-head-xiris",
+        "blog": {
+            "name": "deer-head-xiris",
+            "title": "It's Me",
+            "description": "I draw sometimes, my name is Nat. 21, non-binary (they/them) Check /commissions page for status\nPlease consider supporting me on patreon and/or Ko-fi! https://www.patreon.com/deer_head_xiris \nhttps://ko-fi.com/deerheadxiris\n(email: deerheadxiris@gmail.com)",
+            "url": "https://deer-head-xiris.tumblr.com/",
+            "uuid": "t:obPyu1PEFpc5x8pQWmVZng",
+            "updated": 1561758373
+        },
+        "id": 181024848950,
+        "post_url": "https://deer-head-xiris.tumblr.com/post/181024848950/holiday-pic-spider-nat-is-green-so-they-are-the",
+        "slug": "holiday-pic-spider-nat-is-green-so-they-are-the",
+        "date": "2018-12-11 20:15:03 GMT",
+        "timestamp": 1544559303,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "qma6q0uk",
+        "tags": [
+            "marvel",
+            "marvel oc",
+            "blue and the bold jumper",
+            "spider-man",
+            "spider man",
+            "blublen",
+            "averageprodigy",
+            "nat",
+            "spider nat",
+            "bold jumper",
+            "fish blue",
+            "blue",
+            "cobalt spider",
+            "bri",
+            "ocs",
+            "my ocs",
+            "friend ocs",
+            "my art",
+            "christmas"
+        ],
+        "short_url": "https://tmblr.co/Z5Qxpt2ebw-ms",
+        "summary": "Holiday pic!!! Spider-Nat is green so they Are the tree. ft. @blublen 's oc Bri (lower left hand with the shiba) and...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 139,
+        "caption": "<p>\n\nHoliday pic!!! Spider-Nat is green so they Are the tree. <br/>ft. <a class=\"tumblelog\" href=\"https://tmblr.co/m8HS-qRBZCszp-vYvVTrhRg\">@blublen</a> &rsquo;s oc Bri (lower left hand with the shiba) and <a class=\"tumblelog\" href=\"https://tmblr.co/m_c-o5YR0unb55Chg3fborA\">@averageprodigy</a> &rsquo;s Cobalt (lower right hand with the duskull)! \ud83d\udc96\ud83c\udf84\u2b50\ufe0f\n\n<br/></p>",
+        "reblog": {
+            "comment": "<p>\n\nHoliday pic!!! Spider-Nat is green so they Are the tree. <br>ft. <a class=\"tumblelog\" href=\"https://tmblr.co/m8HS-qRBZCszp-vYvVTrhRg\">@blublen</a> \u2019s oc Bri (lower left hand with the shiba) and <a class=\"tumblelog\" href=\"https://tmblr.co/m_c-o5YR0unb55Chg3fborA\">@averageprodigy</a> \u2019s Cobalt (lower right hand with the duskull)! \ud83d\udc96\ud83c\udf84\u2b50\ufe0f\n\n<br></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "deer-head-xiris",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1000,
+                        "header_full_height": 1301,
+                        "header_focus_width": 1000,
+                        "header_focus_height": 563,
+                        "avatar_shape": "circle",
+                        "background_color": "#FFFFFF",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "5,1000,568,0",
+                        "header_image": "https://static.tumblr.com/ff2aefa21fea7f17eae11d7dcd485c3c/a6s3ze4/3cVptq0qr/tumblr_static_9n967cyleskkcgoscsk4ksg48.png",
+                        "header_image_focused": "https://static.tumblr.com/9f0a072e46458845eb3ae7d23be58081/a6s3ze4/otKptq0qu/tumblr_static_tumblr_static_9n967cyleskkcgoscsk4ksg48_focused_v3.png",
+                        "header_image_scaled": "https://static.tumblr.com/ff2aefa21fea7f17eae11d7dcd485c3c/a6s3ze4/3cVptq0qr/tumblr_static_9n967cyleskkcgoscsk4ksg48_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#9aca4c",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Helvetica Neue",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181024848950"
+                },
+                "content_raw": "<p>\n\nHoliday pic!!! Spider-Nat is green so they Are the tree. <br>ft. <a class=\"tumblelog\" href=\"https://tmblr.co/m8HS-qRBZCszp-vYvVTrhRg\">@blublen</a> \u2019s oc Bri (lower left hand with the shiba) and <a class=\"tumblelog\" href=\"https://tmblr.co/m_c-o5YR0unb55Chg3fborA\">@averageprodigy</a> \u2019s Cobalt (lower right hand with the duskull)! \ud83d\udc96\ud83c\udf84\u2b50\ufe0f\n\n<br></p>",
+                "content": "<p>\n\nHoliday pic!!! Spider-Nat is green so they Are the tree. <br />ft. <a href=\"https://tmblr.co/m8HS-qRBZCszp-vYvVTrhRg\">@blublen</a> &rsquo;s oc Bri (lower left hand with the shiba) and <a href=\"https://tmblr.co/m_c-o5YR0unb55Chg3fborA\">@averageprodigy</a> &rsquo;s Cobalt (lower right hand with the duskull)! &#128150;&#127876;&#11088;&#65039;\n\n<br /></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://deer-head-xiris.tumblr.com/image/181024848950",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_1280.png",
+                    "width": 1000,
+                    "height": 1190
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_1280.png",
+                        "width": 1000,
+                        "height": 1190
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_640.png",
+                        "width": 640,
+                        "height": 762
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_540.png",
+                        "width": 540,
+                        "height": 643
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_500.png",
+                        "width": 500,
+                        "height": 595
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_400.png",
+                        "width": 400,
+                        "height": 476
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_250.png",
+                        "width": 250,
+                        "height": 298
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_100.png",
+                        "width": 100,
+                        "height": 119
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/bd3d4b4346416d515c20176d9241d8e0/tumblr_pjl9l395ZE1rkif1wo1_75sq.png",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "ships-and-tea",
+        "blog": {
+            "name": "ships-and-tea",
+            "title": "struggling fangirl, growing up gracefully",
+            "description": "she/her // bisexual // 16 // gryffindor // feminism // studio ghibli // larry stylinson //studying // reading // books // disney // marvel // sherlock holmes // hp // friends tv // writing // movies // music // singing // violin // tea // LOTR // begin again movie //",
+            "url": "https://ships-and-tea.tumblr.com/",
+            "uuid": "t:5CTiQYnjsUCR8pnawNn7jQ",
+            "updated": 1561731674
+        },
+        "id": 181024643053,
+        "post_url": "https://ships-and-tea.tumblr.com/post/181024643053/could-i-please-ask-for-an-alternative-ending",
+        "slug": "could-i-please-ask-for-an-alternative-ending",
+        "date": "2018-12-11 20:06:06 GMT",
+        "timestamp": 1544558766,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "MOn6us0Q",
+        "tags": [
+            "spider man",
+            "the amazing spider-man",
+            "the amazing spider- man 2",
+            "rip gwen"
+        ],
+        "short_url": "https://tmblr.co/ZO7Ecb2ebwDVj",
+        "summary": "could i please ask for an alternative ending for\u00a0\u201cthe amazing spider- man 2\u2033????????? because i am mourning righ now",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 0,
+        "title": null,
+        "body": "<p>could i please ask for an alternative ending for\u00a0\u201cthe amazing spider- man 2\u2033????????? because i am mourning righ now</p>",
+        "reblog": {
+            "comment": "<p>could i please ask for an alternative ending for\u00a0\u201cthe amazing spider- man 2\u2033????????? because i am mourning righ now</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "ships-and-tea",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#FFD731",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_11.png?_v=4275fa0865b78225d79970023dde05a1",
+                        "header_stretch": true,
+                        "link_color": "#912ABD",
+                        "show_avatar": false,
+                        "show_description": true,
+                        "show_header_image": false,
+                        "show_title": true,
+                        "title_color": "#8F6DA5",
+                        "title_font": "Clarendon Text Pro",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181024643053"
+                },
+                "content_raw": "<p>could i please ask for an alternative ending for\u00a0\u201cthe amazing spider- man 2\u2033????????? because i am mourning righ now</p>",
+                "content": "<p>could i please ask for an alternative ending for&nbsp;&ldquo;the amazing spider- man 2&Prime;????????? because i am mourning righ now</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "dna-1",
+        "blog": {
+            "name": "dna-1",
+            "title": "David Nakayama Illustration",
+            "description": "<p>Cover Artist for Marvel | Art Lead on Harry Potter Hogwarts Mystery &amp; Avengers Academy | Freelance Illustrator and Concept Artist</p>",
+            "url": "https://dna-1.tumblr.com/",
+            "uuid": "t:t8_QveR2d1ARIEGMyGR03Q",
+            "updated": 1557954937
+        },
+        "id": 181023871702,
+        "post_url": "https://dna-1.tumblr.com/post/181023871702/miles-morales-yeah-so-i-hear-theres-some-kind",
+        "slug": "miles-morales-yeah-so-i-hear-theres-some-kind",
+        "date": "2018-12-11 19:32:25 GMT",
+        "timestamp": 1544556745,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "ow980pjz",
+        "tags": [
+            "spider man",
+            "spider man into the spider verse",
+            "spiderverse",
+            "spider woman",
+            "cloak and dagger",
+            "cover art",
+            "cover artist",
+            "comic art",
+            "comic artist",
+            "comic book art",
+            "comic book artist",
+            "david nakayama",
+            "marvel comics",
+            "miles morales"
+        ],
+        "short_url": "https://tmblr.co/ZnUzWl2ebtHBM",
+        "summary": "MILES MORALES! Yeah, so I hear there\u2019s some kind of Spider-Man movie out this week? \ud83d\ude06 Used to do covers for Miles\u2019 team book,...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 125,
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/fbc7f62dd3f6e7b305c216481722a6cd/tumblr_pjl7lzz7pS1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"/></figure><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/d8c7edadff1f9c0b4ff03b6f7deb539f/tumblr_pjl7m0Tvb11t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"/></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/3b86042279f25bef2119aee9455769f5/tumblr_pjl7m04k4E1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"/></figure><figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"843\"><img src=\"https://66.media.tumblr.com/4edba6eb0298f6bb3ee5de88e5047cb2/tumblr_pjl7m0PVM81t9qeq8_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"843\"/></figure></div><p>MILES MORALES! Yeah, so I hear there\u2019s some kind of Spider-Man movie out this week? \ud83d\ude06 Used to do covers for Miles\u2019 team book, called ALL-NEW ULTIMATES. It featured Spider-Woman, Cloak &amp; Dagger, and Kitty Pryde too.</p><p>Did the first cover in a super stripped-down style and continued to be pretty experimental after that. </p>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/fbc7f62dd3f6e7b305c216481722a6cd/tumblr_pjl7lzz7pS1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/d8c7edadff1f9c0b4ff03b6f7deb539f/tumblr_pjl7m0Tvb11t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/3b86042279f25bef2119aee9455769f5/tumblr_pjl7m04k4E1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"843\"><img src=\"https://66.media.tumblr.com/4edba6eb0298f6bb3ee5de88e5047cb2/tumblr_pjl7m0PVM81t9qeq8_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"843\"></figure></div><p>MILES MORALES! Yeah, so I hear there\u2019s some kind of Spider-Man movie out this week? \ud83d\ude06 Used to do covers for Miles\u2019 team book, called ALL-NEW ULTIMATES. It featured Spider-Woman, Cloak &amp; Dagger, and Kitty Pryde too.</p><p>Did the first cover in a super stripped-down style and continued to be pretty experimental after that. </p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "dna-1",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1280,
+                        "header_full_height": 528,
+                        "header_focus_width": 790,
+                        "header_focus_height": 444,
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "32,1034,476,244",
+                        "header_image": "https://static.tumblr.com/f8f7495e95de0bdeb5bad489268896ea/kxm2u2t/W3Gp2s1oa/tumblr_static_.png",
+                        "header_image_focused": "https://static.tumblr.com/f8f7495e95de0bdeb5bad489268896ea/kxm2u2t/tYrp2s1oe/tumblr_static_tumblr_static__focused_v3.png",
+                        "header_image_scaled": "https://static.tumblr.com/f8f7495e95de0bdeb5bad489268896ea/kxm2u2t/W3Gp2s1oa/tumblr_static__2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181023871702"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/fbc7f62dd3f6e7b305c216481722a6cd/tumblr_pjl7lzz7pS1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/d8c7edadff1f9c0b4ff03b6f7deb539f/tumblr_pjl7m0Tvb11t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"900\" data-orig-width=\"600\"><img src=\"https://66.media.tumblr.com/3b86042279f25bef2119aee9455769f5/tumblr_pjl7m04k4E1t9qeq8_540.jpg\" data-orig-height=\"900\" data-orig-width=\"600\"></figure><figure class=\"tmblr-full\" data-orig-height=\"1280\" data-orig-width=\"843\"><img src=\"https://66.media.tumblr.com/4edba6eb0298f6bb3ee5de88e5047cb2/tumblr_pjl7m0PVM81t9qeq8_540.jpg\" data-orig-height=\"1280\" data-orig-width=\"843\"></figure></div><p>MILES MORALES! Yeah, so I hear there\u2019s some kind of Spider-Man movie out this week? \ud83d\ude06 Used to do covers for Miles\u2019 team book, called ALL-NEW ULTIMATES. It featured Spider-Woman, Cloak &amp; Dagger, and Kitty Pryde too.</p><p>Did the first cover in a super stripped-down style and continued to be pretty experimental after that. </p></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/fbc7f62dd3f6e7b305c216481722a6cd/tumblr_pjl7lzz7pS1t9qeq8_540.jpg\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/d8c7edadff1f9c0b4ff03b6f7deb539f/tumblr_pjl7m0Tvb11t9qeq8_540.jpg\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/3b86042279f25bef2119aee9455769f5/tumblr_pjl7m04k4E1t9qeq8_540.jpg\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/4edba6eb0298f6bb3ee5de88e5047cb2/tumblr_pjl7m0PVM81t9qeq8_540.jpg\" class=\"\"/></figure><p>MILES MORALES! Yeah, so I hear there&rsquo;s some kind of Spider-Man movie out this week? &#128518; Used to do covers for Miles&rsquo; team book, called ALL-NEW ULTIMATES. It featured Spider-Woman, Cloak &amp; Dagger, and Kitty Pryde too.</p><p>Did the first cover in a super stripped-down style and continued to be pretty experimental after that. </p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "yasmin-khxn",
+        "blog": {
+            "name": "yasmin-khxn",
+            "title": "lactose the intolerant",
+            "description": "<p>she/her\u2022british-indian\u2022bi\u2022</p>",
+            "url": "https://yasmin-khxn.tumblr.com/",
+            "uuid": "t:aRIGtHf-Z8N0lYBwmuXrJA",
+            "updated": 1561759246
+        },
+        "id": 181022805889,
+        "post_url": "https://yasmin-khxn.tumblr.com/post/181022805889/rewatching-homecoming-and-ive-seen-a-lot-of",
+        "slug": "rewatching-homecoming-and-ive-seen-a-lot-of",
+        "date": "2018-12-11 18:44:27 GMT",
+        "timestamp": 1544553867,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "wxQaQckU",
+        "tags": [
+            "makes soooooo much more sense now!!",
+            "bc that was one of my main issues with the film now tbh",
+            "it seemed like they were all letting peter off to easily because ofc we know why he did what he did but they don\u2019t",
+            "spider man homecoming",
+            "spider man",
+            "spider man far from home",
+            "peter parker",
+            "tom holland",
+            "mcu",
+            "my post"
+        ],
+        "short_url": "https://tmblr.co/Zf7Gsg2ebpC_1",
+        "summary": "rewatching homecoming and I\u2019ve seen a lot of people criticising how peter seemingly experiences a lack of consequences for his...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 8,
+        "title": null,
+        "body": "<p>rewatching homecoming and I\u2019ve seen a lot of people criticising how peter seemingly experiences a lack of consequences for his actions, particularly within school, but I think people are forgetting that peter lost ben only <i>months</i> ago - when you consider how new peter is to being spider-man, it can\u2019t have been longer than a year since peter lost the person who was basically his dad. </p><p>when you consider that, the fact that the team and liz let him off so easily and seem so forgiving of his erratic behaviour and that the school seems to let him off so easily for everything makes a LOT more sense - it makes so much more sense for them all to be so forgiving of peter when they\u2019ve all seen him coping with ben\u2019s death and they probably assume that whatever\u2019s been going on with him is related to that (and I mean, they\u2019re not totally wrong)</p>",
+        "reblog": {
+            "comment": "<p>rewatching homecoming and I\u2019ve seen a lot of people criticising how peter seemingly experiences a lack of consequences for his actions, particularly within school, but I think people are forgetting that peter lost ben only <i>months</i> ago - when you consider how new peter is to being spider-man, it can\u2019t have been longer than a year since peter lost the person who was basically his dad. </p><p>when you consider that, the fact that the team and liz let him off so easily and seem so forgiving of his erratic behaviour and that the school seems to let him off so easily for everything makes a LOT more sense - it makes so much more sense for them all to be so forgiving of peter when they\u2019ve all seen him coping with ben\u2019s death and they probably assume that whatever\u2019s been going on with him is related to that (and I mean, they\u2019re not totally wrong)</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "yasmin-khxn",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1280,
+                        "header_full_height": 800,
+                        "header_focus_width": 1280,
+                        "header_focus_height": 720,
+                        "avatar_shape": "circle",
+                        "background_color": "#DFE9FF",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "7,1280,727,0",
+                        "header_image": "https://static.tumblr.com/5f8677e8399964dbbf417da0be192846/ps8rf4w/pp3pqw8fo/tumblr_static_.jpg",
+                        "header_image_focused": "https://static.tumblr.com/5b52f7aefbfc8b026b61049461338aa3/ps8rf4w/7Qcpqw8fq/tumblr_static_tumblr_static__focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/5f8677e8399964dbbf417da0be192846/ps8rf4w/pp3pqw8fo/tumblr_static__2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#CCCCCC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#FFFFFF",
+                        "title_font": "Gibson",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181022805889"
+                },
+                "content_raw": "<p>rewatching homecoming and I\u2019ve seen a lot of people criticising how peter seemingly experiences a lack of consequences for his actions, particularly within school, but I think people are forgetting that peter lost ben only <i>months</i> ago - when you consider how new peter is to being spider-man, it can\u2019t have been longer than a year since peter lost the person who was basically his dad. </p><p>when you consider that, the fact that the team and liz let him off so easily and seem so forgiving of his erratic behaviour and that the school seems to let him off so easily for everything makes a LOT more sense - it makes so much more sense for them all to be so forgiving of peter when they\u2019ve all seen him coping with ben\u2019s death and they probably assume that whatever\u2019s been going on with him is related to that (and I mean, they\u2019re not totally wrong)</p>",
+                "content": "<p>rewatching homecoming and I&rsquo;ve seen a lot of people criticising how peter seemingly experiences a lack of consequences for his actions, particularly within school, but I think people are forgetting that peter lost ben only <i>months</i> ago - when you consider how new peter is to being spider-man, it can&rsquo;t have been longer than a year since peter lost the person who was basically his dad. </p><p>when you consider that, the fact that the team and liz let him off so easily and seem so forgiving of his erratic behaviour and that the school seems to let him off so easily for everything makes a LOT more sense - it makes so much more sense for them all to be so forgiving of peter when they&rsquo;ve all seen him coping with ben&rsquo;s death and they probably assume that whatever&rsquo;s been going on with him is related to that (and I mean, they&rsquo;re not totally wrong)</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "stefantosheff",
+        "blog": {
+            "name": "stefantosheff",
+            "title": "Stefan Tosheff",
+            "description": "",
+            "url": "https://stefantosheff.tumblr.com/",
+            "uuid": "t:Vl_1TNT6A4y9eyoZo0jycA",
+            "updated": 1560877631
+        },
+        "id": 181022575097,
+        "post_url": "https://stefantosheff.tumblr.com/post/181022575097/i-loved-into-the-spider-verse",
+        "slug": "i-loved-into-the-spider-verse",
+        "date": "2018-12-11 18:34:01 GMT",
+        "timestamp": 1544553241,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "kCE7kVYQ",
+        "tags": [
+            "spider-man",
+            "spider man",
+            "spiderman",
+            "miles morales",
+            "spider-verse",
+            "inot the spider verse",
+            "into the spider verse",
+            "Marvel Comics",
+            "spidey"
+        ],
+        "short_url": "https://tmblr.co/ZeS9Yx2eboKdv",
+        "summary": "I loved into the Spider-Verse",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 32,
+        "caption": "<p>I loved into the Spider-Verse</p>",
+        "reblog": {
+            "comment": "<p>I loved into the Spider-Verse</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "stefantosheff",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 3546,
+                        "header_full_height": 1581,
+                        "header_focus_width": 2048,
+                        "header_focus_height": 1151,
+                        "avatar_shape": "square",
+                        "background_color": "#ffffff",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,3178,1581,367",
+                        "header_image": "https://static.tumblr.com/9222461c53395c80b2f63c08db744f9a/zixmg4s/mRWobpd38/tumblr_static_79scijftpi4gk8kgokk4gsg0k.jpg",
+                        "header_image_focused": "https://static.tumblr.com/9222461c53395c80b2f63c08db744f9a/zixmg4s/tleobpd3e/tumblr_static_tumblr_static_79scijftpi4gk8kgokk4gsg0k_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/9222461c53395c80b2f63c08db744f9a/zixmg4s/mRWobpd38/tumblr_static_79scijftpi4gk8kgokk4gsg0k_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#ce363b",
+                        "show_avatar": false,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181022575097"
+                },
+                "content_raw": "<p>I loved into the Spider-Verse</p>",
+                "content": "<p>I loved into the Spider-Verse</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://stefantosheff.tumblr.com/image/181022575097",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_1280.jpg",
+                    "width": 1280,
+                    "height": 1264
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_1280.jpg",
+                        "width": 1280,
+                        "height": 1264
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_640.jpg",
+                        "width": 640,
+                        "height": 632
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_540.jpg",
+                        "width": 540,
+                        "height": 533
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_500.jpg",
+                        "width": 500,
+                        "height": 494
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_400.jpg",
+                        "width": 400,
+                        "height": 395
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_250.jpg",
+                        "width": 250,
+                        "height": 247
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_100.jpg",
+                        "width": 100,
+                        "height": 99
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/c6056ca059682de3b05a210f66cc6944/tumblr_pjl4wpwY4C1qjco10o1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "crossovered",
+        "blog": {
+            "name": "crossovered",
+            "title": "percy jackson & marvel crossover",
+            "description": "[mod: sav] face the facts the avengers exist and have adopted the demigods its canon",
+            "url": "https://crossovered.tumblr.com/",
+            "uuid": "t:tbzBmw9S5p_REUtwUcdgjg",
+            "updated": 1558708812
+        },
+        "id": 181021998639,
+        "post_url": "https://crossovered.tumblr.com/post/181021998639/oh-my-god-okay-so-you-know-how-cap-does-all-those",
+        "slug": "oh-my-god-okay-so-you-know-how-cap-does-all-those",
+        "date": "2018-12-11 18:08:00 GMT",
+        "timestamp": 1544551680,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "QO6K0EH1",
+        "tags": [
+            "avengers",
+            "mcu",
+            "marvel",
+            "spiderman",
+            "spider man",
+            "captain america"
+        ],
+        "short_url": "https://tmblr.co/ZrU-nY2ebm7ul",
+        "summary": "OH MY GOD OKAY SO YOU KNOW HOW CAP DOES ALL THOSE VIDEOS FOR THE SCHOOL?\nWHAT IF TEACHING THEM ABOUT PUBERTY WASN'T ENOUGH.\nWHAT...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 595,
+        "title": null,
+        "body": "<p>OH MY GOD OKAY SO YOU KNOW HOW CAP DOES ALL THOSE VIDEOS FOR THE SCHOOL?</p><p>WHAT IF TEACHING THEM ABOUT PUBERTY WASN&rsquo;T ENOUGH.</p><p><i>WHAT IF HE NARRATED THE FITNESS GRAM PACER TEST</i></p>",
+        "reblog": {
+            "comment": "<p>OH MY GOD OKAY SO YOU KNOW HOW CAP DOES ALL THOSE VIDEOS FOR THE SCHOOL?</p><p>WHAT IF TEACHING THEM ABOUT PUBERTY WASN\u2019T ENOUGH.</p><p><i>WHAT IF HE NARRATED THE FITNESS GRAM PACER TEST</i></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "crossovered",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#191313",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://static.tumblr.com/b955e3e1c6b0449ce51c2c5ffa56d617/7khcaxk/vYQpe8elf/tumblr_static_-2094866602-content.jpg",
+                        "header_image_focused": "https://static.tumblr.com/b955e3e1c6b0449ce51c2c5ffa56d617/7khcaxk/vYQpe8elf/tumblr_static_-2094866602-content_2048_v2.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/b955e3e1c6b0449ce51c2c5ffa56d617/7khcaxk/vYQpe8elf/tumblr_static_-2094866602-content_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#CC5252",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#D4C5C5",
+                        "title_font": "Sans Serif",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181021998639"
+                },
+                "content_raw": "<p>OH MY GOD OKAY SO YOU KNOW HOW CAP DOES ALL THOSE VIDEOS FOR THE SCHOOL?</p><p>WHAT IF TEACHING THEM ABOUT PUBERTY WASN\u2019T ENOUGH.</p><p><i>WHAT IF HE NARRATED THE FITNESS GRAM PACER TEST</i></p>",
+                "content": "<p>OH MY GOD OKAY SO YOU KNOW HOW CAP DOES ALL THOSE VIDEOS FOR THE SCHOOL?</p><p>WHAT IF TEACHING THEM ABOUT PUBERTY WASN&rsquo;T ENOUGH.</p><p><i>WHAT IF HE NARRATED THE FITNESS GRAM PACER TEST</i></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "video",
+        "blog_name": "maswartz",
+        "blog": {
+            "name": "maswartz",
+            "title": "Maswartz",
+            "description": "Fan of Rooster Teeth, Achievement Hunter, Let's Plays, Super Sentai, Power Rangers, Kamen Rider and other stuff (CAUTION, I CAN AND WILL GET POLITICAL)",
+            "url": "https://maswartz.tumblr.com/",
+            "uuid": "t:HS_VRwn83ArxH9Reu0BROg",
+            "updated": 1561759230
+        },
+        "id": 181021846937,
+        "post_url": "https://maswartz.tumblr.com/post/181021846937",
+        "slug": "",
+        "date": "2018-12-11 18:00:56 GMT",
+        "timestamp": 1544551256,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "x7JNSwgi",
+        "tags": [
+            "supaidaman",
+            "japanese spider man",
+            "spider man"
+        ],
+        "short_url": "https://tmblr.co/ZFcFkt2eblYsP",
+        "summary": "",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 3,
+        "caption": "",
+        "reblog": {
+            "comment": "",
+            "tree_html": ""
+        },
+        "trail": [],
+        "permalink_url": "https://www.youtube.com/watch?v=d5NCSx5HF8c",
+        "html5_capable": true,
+        "video": {
+            "youtube": {
+                "video_id": "d5NCSx5HF8c",
+                "width": 540,
+                "height": 304
+            }
+        },
+        "thumbnail_url": "https://i.ytimg.com/vi/d5NCSx5HF8c/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "player": [
+            {
+                "width": 250,
+                "embed_code": "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/d5NCSx5HF8c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            },
+            {
+                "width": 400,
+                "embed_code": "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/d5NCSx5HF8c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            },
+            {
+                "width": 500,
+                "embed_code": "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/d5NCSx5HF8c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            }
+        ],
+        "video_type": "youtube",
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "darkdamiaknight",
+        "blog": {
+            "name": "darkdamiaknight",
+            "title": "Sired to be a Damiaknight",
+            "description": "...of the McGinty Order.",
+            "url": "https://darkdamiaknight.tumblr.com/",
+            "uuid": "t:MxuCf-OQs2tqOuvOoiaPVg",
+            "updated": 1561751338
+        },
+        "id": 181020686321,
+        "post_url": "https://darkdamiaknight.tumblr.com/post/181020686321/yeeeeeeeeee",
+        "slug": "yeeeeeeeeee",
+        "date": "2018-12-11 17:08:58 GMT",
+        "timestamp": 1544548138,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "wadLMH8R",
+        "tags": [
+            "marvel",
+            "avengers",
+            "spider man",
+            "hulk",
+            "tom holland",
+            "mark ruffalo",
+            "tron",
+            "disneyland",
+            "shanghai"
+        ],
+        "short_url": "https://tmblr.co/ZBDobt2ebh7Vn",
+        "summary": "Yeeeeeeeeee!",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 28,
+        "title": null,
+        "body": "<figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"1024\"><img src=\"https://66.media.tumblr.com/2cc13c219945bc3ca4ccfe14c889b657/tumblr_pjl0yxxQi31rbza4l_540.jpg\" data-orig-height=\"768\" data-orig-width=\"1024\"/></figure><p>Yeeeeeeeeee!</p>",
+        "reblog": {
+            "comment": "<p><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"1024\"><img src=\"https://66.media.tumblr.com/2cc13c219945bc3ca4ccfe14c889b657/tumblr_pjl0yxxQi31rbza4l_540.jpg\" data-orig-height=\"768\" data-orig-width=\"1024\"></figure><p>Yeeeeeeeeee!</p></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "darkdamiaknight",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_14.png?_v=8c2d3b00544b7efbc4ac06dc3f80e374",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_14_focused_v3.png?_v=8c2d3b00544b7efbc4ac06dc3f80e374",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_14_focused_v3.png?_v=8c2d3b00544b7efbc4ac06dc3f80e374",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181020686321"
+                },
+                "content_raw": "<p><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"1024\"><img src=\"https://66.media.tumblr.com/2cc13c219945bc3ca4ccfe14c889b657/tumblr_pjl0yxxQi31rbza4l_540.jpg\" data-orig-height=\"768\" data-orig-width=\"1024\"></figure><p>Yeeeeeeeeee!</p></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/2cc13c219945bc3ca4ccfe14c889b657/tumblr_pjl0yxxQi31rbza4l_540.jpg\" class=\"\"/></figure><p>Yeeeeeeeeee!</p></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "mjwatson-daily",
+        "blog": {
+            "name": "mjwatson-daily",
+            "title": "The Mary Jane Experience",
+            "description": "Blog dedicated to providing you with a daily dose of Mary Jane Watson.  Nothing steamier than what's in the comics, but you'll get her laughs, her tears, and everything in between.",
+            "url": "https://mjwatson-daily.tumblr.com/",
+            "uuid": "t:WCYcpydQ0HwBtygQFPIiWw",
+            "updated": 1561732224
+        },
+        "id": 181018402056,
+        "post_url": "https://mjwatson-daily.tumblr.com/post/181018402056/marvel-knights-spider-man-2-writer-mark",
+        "slug": "marvel-knights-spider-man-2-writer-mark",
+        "date": "2018-12-11 15:30:22 GMT",
+        "timestamp": 1544542222,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "o9ghziCN",
+        "tags": [
+            "Mary Jane Watson",
+            "Peter Parker",
+            "MJ Watson",
+            "Spider Man",
+            "Mark Millar",
+            "Terry Dodson"
+        ],
+        "short_url": "https://tmblr.co/Z0zcyo2ebYPq8",
+        "summary": "Marvel Knights: Spider-Man #2 Writer:  Mark Millar, Art:  Terry and Rachel Dodson\n\n Pete wants MJ to get out of harms way while...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 19,
+        "caption": "<p><b>Marvel Knights: Spider-Man #2</b> Writer:  Mark Millar, Art:  Terry and Rachel Dodson</p>\n\n<p>Pete wants MJ to get out of harms way while he finds Aunt May and tracks down whoever&rsquo;s currently terrorising them. MJ eventually agrees. &ndash;<a href=\"http://www.spiderfan.org/comics/reviews/marvel_knights_spiderman/002.html\">SpiderFan.org</a></p>",
+        "reblog": {
+            "comment": "<p><b>Marvel Knights: Spider-Man #2</b> Writer:  Mark Millar, Art:  Terry and Rachel Dodson</p>\n\n<p>Pete wants MJ to get out of harms way while he finds Aunt May and tracks down whoever\u2019s currently terrorising them. MJ eventually agrees. \u2013<a href=\"http://www.spiderfan.org/comics/reviews/marvel_knights_spiderman/002.html\">SpiderFan.org</a></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "mjwatson-daily",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_13.png?_v=2f4063be1dd2ee91e4eca54332e25191",
+                        "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_13_focused_v3.png?_v=2f4063be1dd2ee91e4eca54332e25191",
+                        "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_13_focused_v3.png?_v=2f4063be1dd2ee91e4eca54332e25191",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181018402056"
+                },
+                "content_raw": "<p><b>Marvel Knights: Spider-Man #2</b> Writer:  Mark Millar, Art:  Terry and Rachel Dodson</p>\n\n<p>Pete wants MJ to get out of harms way while he finds Aunt May and tracks down whoever\u2019s currently terrorising them. MJ eventually agrees. \u2013<a href=\"http://www.spiderfan.org/comics/reviews/marvel_knights_spiderman/002.html\">SpiderFan.org</a></p>",
+                "content": "<p><b>Marvel Knights: Spider-Man #2</b> Writer:  Mark Millar, Art:  Terry and Rachel Dodson</p>\n\n<p>Pete wants MJ to get out of harms way while he finds Aunt May and tracks down whoever&rsquo;s currently terrorising them. MJ eventually agrees. &ndash;<a href=\"http://www.spiderfan.org/comics/reviews/marvel_knights_spiderman/002.html\">SpiderFan.org</a></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://mjwatson-daily.tumblr.com/image/181018402056",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_500.jpg",
+                    "width": 459,
+                    "height": 533
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_500.jpg",
+                        "width": 459,
+                        "height": 533
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_400.jpg",
+                        "width": 400,
+                        "height": 464
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_250.jpg",
+                        "width": 250,
+                        "height": 290
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_100.jpg",
+                        "width": 100,
+                        "height": 116
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/be162a11cedd62ea2850bdb64cddd0f5/tumblr_pjcnvdxhHO1tntm5bo1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "photo",
+        "blog_name": "comicscollecting",
+        "blog": {
+            "name": "comicscollecting",
+            "title": "Notes from Comics Collecting",
+            "description": "A photo every weekday from notes, pull-list records, back issue finds, recent acquisitions and other comics stuff.",
+            "url": "https://comicscollecting.tumblr.com/",
+            "uuid": "t:6VZJ46xvjc_ZqVhtTMv8MA",
+            "updated": 1561730487
+        },
+        "id": 181017777019,
+        "post_url": "https://comicscollecting.tumblr.com/post/181017777019/marvel-team-up-84-august-1984-i-picked-this-up",
+        "slug": "marvel-team-up-84-august-1984-i-picked-this-up",
+        "date": "2018-12-11 15:01:30 GMT",
+        "timestamp": 1544540490,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "SeLvlAdX",
+        "tags": [
+            "Marvel Team Up",
+            "Shang Chi",
+            "Master of Kung Fu",
+            "Spider Man",
+            "comics",
+            "comics collecting",
+            "back issues"
+        ],
+        "short_url": "https://tmblr.co/ZuWxmh2ebW1Dx",
+        "summary": "Marvel Team-Up #84 (August 1984) I picked this up recently because I like to fill gaps in my Marvel Team-Up and I like to get...",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 2,
+        "caption": "<p><i>Marvel Team-Up </i>#84 (August 1984)</p><p>I picked this up recently because I like to fill gaps in my <i>Marvel Team-Up </i>and I like to get any Bronze Age comics featuring Shang-Chi. Plus, it was only a buck!</p>",
+        "reblog": {
+            "comment": "<p><i>Marvel Team-Up </i>#84 (August 1984)</p><p>I picked this up recently because I like to fill gaps in my <i>Marvel Team-Up </i>and I like to get any Bronze Age comics featuring Shang-Chi. Plus, it was only a buck!</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "comicscollecting",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 3081,
+                        "header_full_height": 1752,
+                        "header_focus_width": 2048,
+                        "header_focus_height": 1151,
+                        "avatar_shape": "circle",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "9,3081,1742,0",
+                        "header_image": "https://static.tumblr.com/e44ac77083cb0cd01733df7d21401365/14tjyhy/54lo3g1g9/tumblr_static_8nes0sh52h8osgs04o4k48cog.jpg",
+                        "header_image_focused": "https://static.tumblr.com/e44ac77083cb0cd01733df7d21401365/14tjyhy/u1Jo3g1gf/tumblr_static_tumblr_static_8nes0sh52h8osgs04o4k48cog_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/e44ac77083cb0cd01733df7d21401365/14tjyhy/54lo3g1g9/tumblr_static_8nes0sh52h8osgs04o4k48cog_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181017777019"
+                },
+                "content_raw": "<p><i>Marvel Team-Up </i>#84 (August 1984)</p><p>I picked this up recently because I like to fill gaps in my <i>Marvel Team-Up </i>and I like to get any Bronze Age comics featuring Shang-Chi. Plus, it was only a buck!</p>",
+                "content": "<p><i>Marvel Team-Up </i>#84 (August 1984)</p><p>I picked this up recently because I like to fill gaps in my <i>Marvel Team-Up </i>and I like to get any Bronze Age comics featuring Shang-Chi. Plus, it was only a buck!</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "image_permalink": "https://comicscollecting.tumblr.com/image/181017777019",
+        "photos": [
+            {
+                "caption": "",
+                "original_size": {
+                    "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_540.jpg",
+                    "width": 539,
+                    "height": 800
+                },
+                "alt_sizes": [
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_540.jpg",
+                        "width": 539,
+                        "height": 800
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_500.jpg",
+                        "width": 500,
+                        "height": 742
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_400.jpg",
+                        "width": 400,
+                        "height": 594
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_250.jpg",
+                        "width": 250,
+                        "height": 371
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_100.jpg",
+                        "width": 100,
+                        "height": 148
+                    },
+                    {
+                        "url": "https://66.media.tumblr.com/8f79bf2b4f9b8310b9cc2cc7bd8f150d/tumblr_pjfsk1DSPX1vn7e44o1_75sq.jpg",
+                        "width": 75,
+                        "height": 75
+                    }
+                ]
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "geek-philia",
+        "blog": {
+            "name": "geek-philia",
+            "title": "",
+            "description": "",
+            "url": "https://geek-philia.tumblr.com/",
+            "uuid": "t:BCAWzPj_1nKgdnXnb0E4Dw",
+            "updated": 1556052775
+        },
+        "id": 181015832108,
+        "post_url": "https://geek-philia.tumblr.com/post/181015832108/all-episodes-of-ultimate-spider-man-the",
+        "slug": "all-episodes-of-ultimate-spider-man-the",
+        "date": "2018-12-11 13:18:46 GMT",
+        "timestamp": 1544534326,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "lY5K8TNK",
+        "tags": [
+            "Miles Morales",
+            "Spider Man",
+            "Spider-Man: Into The Spider-Verse",
+            "Ultimate Spider-Man: The Spider-Verse"
+        ],
+        "short_url": "https://tmblr.co/ZFmqvu2ebOcOi",
+        "summary": "All Episodes Of Ultimate Spider-Man: The Spider-Verse On YouTube",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 0,
+        "title": "All Episodes Of Ultimate Spider-Man: The Spider-Verse On YouTube",
+        "body": "<p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">All episodes of #UltimateSpiderMan: #TheSpiderVerse on #YouTube!</a></p><img width=\"320\" height=\"188\" style=\"float: right; padding:10px;\" src=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" data-attachment-id=\"12453\" data-permalink=\"http://www.geekphilia.com/img_20181211_0015227254411383143110465/\" data-orig-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg\" data-orig-size=\"796,468\" data-comments-opened=\"1\" data-image-meta='{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}' data-image-title=\"img_20181211_0015227254411383143110465.jpg\" data-image-description=\"\" data-medium-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" data-large-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=796\"/><blockquote><p>To celebrate the coming release of\u00a0<em><a href=\"http://www.geekphilia.com/2018/12/04/spider-man-into-the-spider-verse-movie-review/\"><strong>Spider-Man: Into The Spider-Verse</strong></a></em>, Marvel has released all episodes of\u00a0<em><strong>Ultimate Spider-Man: The Spider-Verse</strong></em>on YouTube for a week.\u00a0 You can also catch a live stream on <a href=\"https://www.youtube.com/results?search_query=marvel+hq\">Marvel HQ\u2019s channel</a>.\u00a0 Below we have provided the first episode:\u00a0</p>\n\n\n\n\n\n<br/><em>One year afte</em>r b<em>ecoming Spider-Man, teenage Peter Parker is\u2026</em></blockquote><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">View On WordPress</a></p><div style=\"clear:both;\"></div>",
+        "reblog": {
+            "comment": "<p><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">All episodes of #UltimateSpiderMan: #TheSpiderVerse on #YouTube!</a></p><img width=\"320\" height=\"188\" style=\"float: right; padding:10px;\" src=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" data-attachment-id=\"12453\" data-permalink=\"http://www.geekphilia.com/img_20181211_0015227254411383143110465/\" data-orig-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg\" data-orig-size=\"796,468\" data-comments-opened=\"1\" data-image-meta='{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}' data-image-title=\"img_20181211_0015227254411383143110465.jpg\" data-image-description=\"\" data-medium-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" data-large-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=796\"><blockquote><p>To celebrate the coming release of\u00a0<em><a href=\"http://www.geekphilia.com/2018/12/04/spider-man-into-the-spider-verse-movie-review/\"><strong>Spider-Man: Into The Spider-Verse</strong></a></em>, Marvel has released all episodes of\u00a0<em><strong>Ultimate Spider-Man: The Spider-Verse</strong></em>on YouTube for a week.\u00a0 You can also catch a live stream on <a href=\"https://www.youtube.com/results?search_query=marvel+hq\">Marvel HQ\u2019s channel</a>.\u00a0 Below we have provided the first episode:\u00a0</p>\n\n\n\n\n\n<br><em>One year afte</em>r b<em>ecoming Spider-Man, teenage Peter Parker is\u2026</em></blockquote><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">View On WordPress</a></p><div style=\"clear:both;\"></div></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "geek-philia",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#000000",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": 0,
+                        "header_image": "https://static.tumblr.com/93438394b8e45d1f3a053498586471d4/xaxatu1/aLvoj87fn/tumblr_static_cxsqlqguqsgg0k0gsg4skks8w.png",
+                        "header_image_focused": "https://static.tumblr.com/93438394b8e45d1f3a053498586471d4/xaxatu1/aLvoj87fn/tumblr_static_cxsqlqguqsgg0k0gsg4skks8w_2048_v2.png",
+                        "header_image_scaled": "https://static.tumblr.com/93438394b8e45d1f3a053498586471d4/xaxatu1/aLvoj87fn/tumblr_static_cxsqlqguqsgg0k0gsg4skks8w_2048_v2.png",
+                        "header_stretch": true,
+                        "link_color": "#529ECC",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#ffffff",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181015832108"
+                },
+                "content_raw": "<p><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">All episodes of #UltimateSpiderMan: #TheSpiderVerse on #YouTube!</a></p><img width=\"320\" height=\"188\" style=\"float: right; padding:10px;\" src=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" data-attachment-id=\"12453\" data-permalink=\"http://www.geekphilia.com/img_20181211_0015227254411383143110465/\" data-orig-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg\" data-orig-size=\"796,468\" data-comments-opened=\"1\" data-image-meta='{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}' data-image-title=\"img_20181211_0015227254411383143110465.jpg\" data-image-description=\"\" data-medium-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\" data-large-file=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=796\"><blockquote><p>To celebrate the coming release of\u00a0<em><a href=\"http://www.geekphilia.com/2018/12/04/spider-man-into-the-spider-verse-movie-review/\"><strong>Spider-Man: Into The Spider-Verse</strong></a></em>, Marvel has released all episodes of\u00a0<em><strong>Ultimate Spider-Man: The Spider-Verse</strong></em>on YouTube for a week.\u00a0 You can also catch a live stream on <a href=\"https://www.youtube.com/results?search_query=marvel+hq\">Marvel HQ\u2019s channel</a>.\u00a0 Below we have provided the first episode:\u00a0</p>\n\n\n\n\n\n<br><em>One year afte</em>r b<em>ecoming Spider-Man, teenage Peter Parker is\u2026</em></blockquote><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">View On WordPress</a></p><div style=\"clear:both;\"></div></p>",
+                "content": "<p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">All episodes of #UltimateSpiderMan: #TheSpiderVerse on #YouTube!</a></p><div class=\"external-image-wrapper\" data-loading-text=\"Loading...\" data-src=\"http://www.geekphilia.com/wp-content/uploads/2018/12/img_20181211_0015227254411383143110465-e1544505947817.jpg?w=320\">External image</div><blockquote><p>To celebrate the coming release of&nbsp;<em><a href=\"http://www.geekphilia.com/2018/12/04/spider-man-into-the-spider-verse-movie-review/\"><strong>Spider-Man: Into The Spider-Verse</strong></a></em>, Marvel has released all episodes of&nbsp;<em><strong>Ultimate Spider-Man: The Spider-Verse</strong></em>on YouTube for a week.&nbsp; You can also catch a live stream on <a href=\"https://www.youtube.com/results?search_query=marvel+hq\">Marvel HQ&rsquo;s channel</a>.&nbsp; Below we have provided the first episode:&nbsp;</p>\n\n\n\n\n\n<p><br /><em>One year afte</em>r b<em>ecoming Spider-Man, teenage Peter Parker is&hellip;</em></p></blockquote><p><a href=\"http://www.geekphilia.com/2018/12/11/all-episodes-of-ultimate-spider-man-the-spider-verse-on-youtube/\">View On WordPress</a></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "weaponofmassdeduction",
+        "blog": {
+            "name": "weaponofmassdeduction",
+            "title": "Later Pala-dudes",
+            "description": "I sometimes feel like my life is like a series of Kermit memes",
+            "url": "https://weaponofmassdeduction.tumblr.com/",
+            "uuid": "t:VKth86JxJiry3C_9PDg-yg",
+            "updated": 1561753838
+        },
+        "id": 181011530178,
+        "post_url": "https://weaponofmassdeduction.tumblr.com/post/181011530178/whatever-you-do-stay-after-the-credits-of",
+        "slug": "whatever-you-do-stay-after-the-credits-of",
+        "date": "2018-12-11 08:38:46 GMT",
+        "timestamp": 1544517526,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "6caapjd1",
+        "tags": [
+            "spiderman into the spiderverse",
+            "spider man",
+            "marvel",
+            "into the spiderverse",
+            "miles morales",
+            "peter parker",
+            "spider-man",
+            "gwen stacy",
+            "peni parker",
+            "spiderman noir",
+            "peter porker",
+            "spider woman",
+            "spider ham"
+        ],
+        "short_url": "https://tmblr.co/ZJjxSn2eb8C72",
+        "summary": "WHATEVER YOU DO STAY AFTER THE CREDITS OF SPIDER-MAN INTO THE SPIDERVERSE!",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 231,
+        "title": null,
+        "body": "<h1>WHATEVER YOU DO STAY AFTER THE CREDITS OF SPIDER-MAN INTO THE SPIDERVERSE!</h1>",
+        "reblog": {
+            "comment": "<p><h1>WHATEVER YOU DO STAY AFTER THE CREDITS OF SPIDER-MAN INTO THE SPIDERVERSE!</h1></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "weaponofmassdeduction",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1200,
+                        "header_full_height": 600,
+                        "header_focus_width": 1067,
+                        "header_focus_height": 600,
+                        "avatar_shape": "circle",
+                        "background_color": "#FFFFFF",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,1133,600,66",
+                        "header_image": "https://static.tumblr.com/de2d19cc978bddc1b2ec6eb650d163bf/o2ykcyz/BHBpmk1qt/tumblr_static_6zkapgmuqyskso0kg4oo88wsc.jpg",
+                        "header_image_focused": "https://static.tumblr.com/a6f60773dc0f6c6c4565e7822ab1e256/o2ykcyz/b5wpmk1qu/tumblr_static_tumblr_static_6zkapgmuqyskso0kg4oo88wsc_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/de2d19cc978bddc1b2ec6eb650d163bf/o2ykcyz/BHBpmk1qt/tumblr_static_6zkapgmuqyskso0kg4oo88wsc_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#000000",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#222222",
+                        "title_font": "Alternate Gothic",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": true,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181011530178"
+                },
+                "content_raw": "<p><h1>WHATEVER YOU DO STAY AFTER THE CREDITS OF SPIDER-MAN INTO THE SPIDERVERSE!</h1></p>",
+                "content": "<p><h1>WHATEVER YOU DO STAY AFTER THE CREDITS OF SPIDER-MAN INTO THE SPIDERVERSE!</h1></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "video",
+        "blog_name": "sonypicturesuk",
+        "blog": {
+            "name": "sonypicturesuk",
+            "title": "Sony Pictures Releasing UK",
+            "description": "The official Tumblr Blog for Sony Pictures Releasing UK",
+            "url": "https://sonypicturesuk.tumblr.com/",
+            "uuid": "t:M77jfVyjqZUM0YwM-iTaiQ",
+            "updated": 1561712426
+        },
+        "id": 181010952940,
+        "post_url": "https://sonypicturesuk.tumblr.com/post/181010952940",
+        "slug": "tomorrow-universes-unite-spider-man-into-the",
+        "date": "2018-12-11 08:00:29 GMT",
+        "timestamp": 1544515229,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "yleu3Co7",
+        "tags": [
+            "Spider Man",
+            "Spider Verse",
+            "Comics",
+            "Comicbooks",
+            "Movie",
+            "Film",
+            "UK",
+            "peter parker",
+            "Miles Morales"
+        ],
+        "short_url": "https://tmblr.co/Z7fqUu2eb5-Bi",
+        "summary": "Tomorrow, universes unite. Spider-Man: Into the Spider-Verse (Dec 12, 2018)\u00a0",
+        "should_open_in_legacy": true,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 1,
+        "caption": "<p>\n\nTomorrow, universes unite. <i>Spider-Man: Into the Spider-Verse</i> (Dec 12, 2018)\u00a0<br/></p>",
+        "reblog": {
+            "comment": "<p>\n\nTomorrow, universes unite. <i>Spider-Man: Into the Spider-Verse</i> (Dec 12, 2018)\u00a0<br></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "sonypicturesuk",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "square",
+                        "background_color": "#FAFAFA",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://static.tumblr.com/07ec5110dd798fd1d6fcdec4ea466583/qxbbn4a/O5Kptcbxg/tumblr_static_4wlvtnhcm268s8wswkwsk0g4g.jpg",
+                        "header_image_focused": "https://static.tumblr.com/07ec5110dd798fd1d6fcdec4ea466583/qxbbn4a/O5Kptcbxg/tumblr_static_4wlvtnhcm268s8wswkwsk0g4g_2048_v2.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/07ec5110dd798fd1d6fcdec4ea466583/qxbbn4a/O5Kptcbxg/tumblr_static_4wlvtnhcm268s8wswkwsk0g4g_2048_v2.jpg",
+                        "header_stretch": false,
+                        "link_color": "#102029",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#444444",
+                        "title_font": "Gibson",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181010952940"
+                },
+                "content_raw": "<p>\n\nTomorrow, universes unite. <i>Spider-Man: Into the Spider-Verse</i> (Dec 12, 2018)\u00a0<br></p>",
+                "content": "<p>\n\nTomorrow, universes unite. <i>Spider-Man: Into the Spider-Verse</i> (Dec 12, 2018)&nbsp;<br /></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "permalink_url": "https://www.youtube.com/watch?v=yn2Tb1fSWKY",
+        "html5_capable": true,
+        "video": {
+            "youtube": {
+                "video_id": "yn2Tb1fSWKY",
+                "width": 540,
+                "height": 304
+            }
+        },
+        "thumbnail_url": "https://i.ytimg.com/vi/yn2Tb1fSWKY/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "player": [
+            {
+                "width": 250,
+                "embed_code": "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/yn2Tb1fSWKY?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            },
+            {
+                "width": 400,
+                "embed_code": "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/yn2Tb1fSWKY?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            },
+            {
+                "width": 500,
+                "embed_code": "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/yn2Tb1fSWKY?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            }
+        ],
+        "video_type": "youtube",
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "uwu-exe",
+        "blog": {
+            "name": "uwu-exe",
+            "title": "I'm Feral",
+            "description": "[ig is @uwu.exe]\nsend wholesome gorillaz post pleath",
+            "url": "https://uwu-exe.tumblr.com/",
+            "uuid": "t:_k96l5SyDA_Omq492Lrjww",
+            "updated": 1561753471
+        },
+        "id": 181010426400,
+        "post_url": "https://uwu-exe.tumblr.com/post/181010426400/before-i-write-this-i-just-wanna-say-its-2-am-but",
+        "slug": "before-i-write-this-i-just-wanna-say-its-2-am-but",
+        "date": "2018-12-11 07:27:41 GMT",
+        "timestamp": 1544513261,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "kRMQyxKq",
+        "tags": [
+            "marvel",
+            "infinity war",
+            "peter parker",
+            "spiderman",
+            "spider man",
+            "tony stark",
+            "iron man",
+            "avengers 4",
+            "anengers endgame",
+            "endgame",
+            "my post",
+            "aslyn speaks"
+        ],
+        "short_url": "https://tmblr.co/ZMSOdg2eb3_eW",
+        "summary": "before i write this i just wanna say its 2 am.\nbut i have a good theory please read even if my grammar sucks.\ni present to you:...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 3,
+        "title": null,
+        "body": "<p>before i write this i just wanna say its 2 am.</p><p>but i have a good theory please read even if my grammar sucks.</p><p>i present to you: <i>what if peter died because of tony stark.</i></p><p>on the ship to titan tony realized they may not make it back and they were god knows how many miles away from earth, so he made peter and &ldquo;official&rdquo; member of the avengers.</p><p>everyone except the original avengers died, including peter. anyone that had an &ldquo;official&rdquo; affliction with the avengers or anyone a part of the avengers died. that plan to defeat thanos tony and quill made up was probably enough in the stone&rsquo;s eyes to see they were working together, even if they didn&rsquo;t for long. </p>",
+        "reblog": {
+            "comment": "<p>before i write this i just wanna say its 2 am.</p><p>but i have a good theory please read even if my grammar sucks.</p><p>i present to you: <i>what if peter died because of tony stark.</i></p><p>on the ship to titan tony realized they may not make it back and they were god knows how many miles away from earth, so he made peter and \u201cofficial\u201d member of the avengers.</p><p>everyone except the original avengers died, including peter. anyone that had an \u201cofficial\u201d affliction with the avengers or anyone a part of the avengers died. that plan to defeat thanos tony and quill made up was probably enough in the stone\u2019s eyes to see they were working together, even if they didn\u2019t for long. </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "uwu-exe",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 400,
+                        "header_full_height": 297,
+                        "header_focus_width": 399,
+                        "header_focus_height": 225,
+                        "avatar_shape": "square",
+                        "background_color": "#76D1E4",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "52,399,277,0",
+                        "header_image": "https://static.tumblr.com/0e609b40ef98097444442ffec11ce04d/jrigr6p/Lnqpsi6lc/tumblr_static_-512630114-content.gif",
+                        "header_image_focused": "https://static.tumblr.com/0e609b40ef98097444442ffec11ce04d/jrigr6p/ZZepsi6le/tumblr_static_tumblr_static_-512630114-content_focused_v3.gif",
+                        "header_image_scaled": "https://static.tumblr.com/0e609b40ef98097444442ffec11ce04d/jrigr6p/Lnqpsi6lc/tumblr_static_-512630114-content_2048_v2.gif",
+                        "header_stretch": true,
+                        "link_color": "#B95DA7",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#EEEEEE",
+                        "title_font": "Calluna",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181010426400"
+                },
+                "content_raw": "<p>before i write this i just wanna say its 2 am.</p><p>but i have a good theory please read even if my grammar sucks.</p><p>i present to you: <i>what if peter died because of tony stark.</i></p><p>on the ship to titan tony realized they may not make it back and they were god knows how many miles away from earth, so he made peter and \u201cofficial\u201d member of the avengers.</p><p>everyone except the original avengers died, including peter. anyone that had an \u201cofficial\u201d affliction with the avengers or anyone a part of the avengers died. that plan to defeat thanos tony and quill made up was probably enough in the stone\u2019s eyes to see they were working together, even if they didn\u2019t for long. </p>",
+                "content": "<p>before i write this i just wanna say its 2 am.</p><p>but i have a good theory please read even if my grammar sucks.</p><p>i present to you: <i>what if peter died because of tony stark.</i></p><p>on the ship to titan tony realized they may not make it back and they were god knows how many miles away from earth, so he made peter and &ldquo;official&rdquo; member of the avengers.</p><p>everyone except the original avengers died, including peter. anyone that had an &ldquo;official&rdquo; affliction with the avengers or anyone a part of the avengers died. that plan to defeat thanos tony and quill made up was probably enough in the stone&rsquo;s eyes to see they were working together, even if they didn&rsquo;t for long. </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "magicsuga",
+        "blog": {
+            "name": "magicsuga",
+            "title": "Bitch with a capital \u201cW\u201d",
+            "description": "<p><a href=\"http://magicsuga.tumblr.com/meghan\">Meghan</a> </p><p>Insta: Mmagicss </p><p>Twitter: Magic_pjs<br>Professional Meme, Self Nominated DJ, and Mom Friend</p>",
+            "url": "https://magicsuga.tumblr.com/",
+            "uuid": "t:PXI9D0HJd7p5VsCJ8N2LGw",
+            "updated": 1561755445
+        },
+        "id": 181009551860,
+        "post_url": "https://magicsuga.tumblr.com/post/181009551860/what-if-instead-of-everyone-thinking-peter-is",
+        "slug": "what-if-instead-of-everyone-thinking-peter-is",
+        "date": "2018-12-11 06:38:40 GMT",
+        "timestamp": 1544510320,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "T866uFA5",
+        "tags": [
+            "meghan's mumblings",
+            "peter parker",
+            "spider man",
+            "spiderman",
+            "headcanon",
+            "marvel"
+        ],
+        "short_url": "https://tmblr.co/ZZvp6p2eb0f7q",
+        "summary": "What if instead of everyone thinking peter is Spider-Man, they think he\u2019s one of those people who uses wikihow to learn how to...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 23,
+        "title": null,
+        "body": "<p>What if instead of everyone thinking peter is Spider-Man, they think he\u2019s one of those people who uses wikihow to learn how to \u201cact\u201d like Spider-Man, so that people think he\u2019s Spider-Man. So people thinks that he wants people to think he\u2019s Spider-Man </p>",
+        "reblog": {
+            "comment": "<p>What if instead of everyone thinking peter is Spider-Man, they think he\u2019s one of those people who uses wikihow to learn how to \u201cact\u201d like Spider-Man, so that people think he\u2019s Spider-Man. So people thinks that he wants people to think he\u2019s Spider-Man </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "magicsuga",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1003,
+                        "header_full_height": 677,
+                        "header_focus_width": 1003,
+                        "header_focus_height": 564,
+                        "avatar_shape": "square",
+                        "background_color": "#F1D1EE",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "4,1003,568,0",
+                        "header_image": "https://static.tumblr.com/dc71adbeeecdf7fc549034d53bdbb613/5hb9t9q/Qeeplgscf/tumblr_static_.gif",
+                        "header_image_focused": "https://static.tumblr.com/dc71adbeeecdf7fc549034d53bdbb613/5hb9t9q/9Aaplgsf4/tumblr_static_tumblr_static__focused_v3.gif",
+                        "header_image_scaled": "https://static.tumblr.com/dc71adbeeecdf7fc549034d53bdbb613/5hb9t9q/Qeeplgscf/tumblr_static__2048_v2.gif",
+                        "header_stretch": true,
+                        "link_color": "#B392C9",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#5F496E",
+                        "title_font": "Arquitecta",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181009551860"
+                },
+                "content_raw": "<p>What if instead of everyone thinking peter is Spider-Man, they think he\u2019s one of those people who uses wikihow to learn how to \u201cact\u201d like Spider-Man, so that people think he\u2019s Spider-Man. So people thinks that he wants people to think he\u2019s Spider-Man </p>",
+                "content": "<p>What if instead of everyone thinking peter is Spider-Man, they think he&rsquo;s one of those people who uses wikihow to learn how to &ldquo;act&rdquo; like Spider-Man, so that people think he&rsquo;s Spider-Man. So people thinks that he wants people to think he&rsquo;s Spider-Man </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "your-local-cryptic",
+        "blog": {
+            "name": "your-local-cryptic",
+            "title": "dumbass gay in the flesh",
+            "description": "Peter Parker Protection squad.\nJust a Mun blog now since I dont do shit here lol.\nIcon by lilmisscircussteff\nbitch3username3here.\nThe only straight I am is straight up bitch \nHeader by: Supernatural writers and editors \n\"I put the fun in dysfunctional!\" -Hearts amd Heroes. \"I would love to be stabbed, straight up murder me.\" -Hearts and Heroes.\nHearts and Heroes is amazing af.",
+            "url": "https://your-local-cryptic.tumblr.com/",
+            "uuid": "t:FG2p6onXh2Wk0n8uCDOWYw",
+            "updated": 1561759172
+        },
+        "id": 181007956884,
+        "post_url": "https://your-local-cryptic.tumblr.com/post/181007956884",
+        "slug": "",
+        "date": "2018-12-11 05:24:15 GMT",
+        "timestamp": 1544505855,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "lkmXfo2s",
+        "tags": [
+            "i sketched this during school",
+            "its done now",
+            "spiderman",
+            "spider man",
+            "spiderson",
+            "peter",
+            "peter parker",
+            "my art",
+            "all the edits tho lmao"
+        ],
+        "short_url": "https://tmblr.co/ZjqvPd2eawZkK",
+        "summary": "",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 2,
+        "title": null,
+        "body": "<div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/c7b1b2330f55bfc4bba4f1619e00b905/tumblr_pjk4cbVXS21v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/ef94eeb7c5ddc96c4975f0b7ff6241cf/tumblr_pjk4c94RCj1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/1c95c2450ae54ebdaabb3e5431cfe277/tumblr_pjk4ceNfW41v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/0203314ede71684f7008a126d8140ede/tumblr_pjk4cadMGP1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/772dabe31b52d9cf188a7a400a472c9b/tumblr_pjk4caqJgq1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/e644a4e340466fd863b768d6ae417397/tumblr_pjk4cdPirW1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"/></figure>",
+        "reblog": {
+            "comment": "<p><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/c7b1b2330f55bfc4bba4f1619e00b905/tumblr_pjk4cbVXS21v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/ef94eeb7c5ddc96c4975f0b7ff6241cf/tumblr_pjk4c94RCj1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/1c95c2450ae54ebdaabb3e5431cfe277/tumblr_pjk4ceNfW41v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/0203314ede71684f7008a126d8140ede/tumblr_pjk4cadMGP1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/772dabe31b52d9cf188a7a400a472c9b/tumblr_pjk4caqJgq1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/e644a4e340466fd863b768d6ae417397/tumblr_pjk4cdPirW1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "your-local-cryptic",
+                    "active": true,
+                    "theme": {
+                        "avatar_shape": "circle",
+                        "background_color": "#000000",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "",
+                        "header_image": "https://static.tumblr.com/685d3ce74a9c9230823062ad915b2ec0/2spyfea/iiKpo6svl/tumblr_static_-517367784-content.jpg",
+                        "header_image_focused": "https://static.tumblr.com/685d3ce74a9c9230823062ad915b2ec0/2spyfea/iiKpo6svl/tumblr_static_-517367784-content_2048_v2.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/685d3ce74a9c9230823062ad915b2ec0/2spyfea/iiKpo6svl/tumblr_static_-517367784-content_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#FFFFFF",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#9E639C",
+                        "title_font": "Sans Serif",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181007956884"
+                },
+                "content_raw": "<p><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/c7b1b2330f55bfc4bba4f1619e00b905/tumblr_pjk4cbVXS21v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/ef94eeb7c5ddc96c4975f0b7ff6241cf/tumblr_pjk4c94RCj1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/1c95c2450ae54ebdaabb3e5431cfe277/tumblr_pjk4ceNfW41v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><div class=\"npf_row\"><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/0203314ede71684f7008a126d8140ede/tumblr_pjk4cadMGP1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/772dabe31b52d9cf188a7a400a472c9b/tumblr_pjk4caqJgq1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></div><figure class=\"tmblr-full\" data-orig-height=\"768\" data-orig-width=\"768\"><img src=\"https://66.media.tumblr.com/e644a4e340466fd863b768d6ae417397/tumblr_pjk4cdPirW1v2b8wq_540.png\" data-orig-height=\"768\" data-orig-width=\"768\"></figure></p>",
+                "content": "<p><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/c7b1b2330f55bfc4bba4f1619e00b905/tumblr_pjk4cbVXS21v2b8wq_540.png\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/ef94eeb7c5ddc96c4975f0b7ff6241cf/tumblr_pjk4c94RCj1v2b8wq_540.png\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/1c95c2450ae54ebdaabb3e5431cfe277/tumblr_pjk4ceNfW41v2b8wq_540.png\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/0203314ede71684f7008a126d8140ede/tumblr_pjk4cadMGP1v2b8wq_540.png\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/772dabe31b52d9cf188a7a400a472c9b/tumblr_pjk4caqJgq1v2b8wq_540.png\" class=\"\"/></figure><figure class=\"tmblr-full\"><img src=\"https://66.media.tumblr.com/e644a4e340466fd863b768d6ae417397/tumblr_pjk4cdPirW1v2b8wq_540.png\" class=\"\"/></figure></p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "princiell",
+        "blog": {
+            "name": "princiell",
+            "title": "FUCK KINGPIN! STAN PETER PARKER",
+            "description": "it\u2019s not living (if it\u2019s not with you) - kat / val ( 1 8 ) \u00bb she/they",
+            "url": "https://princiell.tumblr.com/",
+            "uuid": "t:SOmL8IEnDKs0P44VOeyA2g",
+            "updated": 1561754169
+        },
+        "id": 181006349872,
+        "post_url": "https://princiell.tumblr.com/post/181006349872/spider-man-far-from-home-should-start-with-peter",
+        "slug": "spider-man-far-from-home-should-start-with-peter",
+        "date": "2018-12-11 04:14:12 GMT",
+        "timestamp": 1544501652,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "CkfknTFk",
+        "tags": [
+            "yes i just want to see it is wednesday my dudes done by tom holland",
+            "spiderman",
+            "spider man",
+            "far from home",
+            "smffh",
+            "spider man far from home",
+            "marvel",
+            "marvel cinematic universe",
+            "mcu",
+            "marvel comics"
+        ],
+        "short_url": "https://tmblr.co/Zx5Kql2eaqROm",
+        "summary": "Spider-man: Far From Home should start with Peter Parker & friends (possibly the Avengers themselves too) recreating one of his...",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 11,
+        "title": null,
+        "body": "<p>Spider-man: Far From Home should start with Peter Parker &amp; friends (possibly the Avengers themselves too) recreating one of his favorite vine compilations. </p>",
+        "reblog": {
+            "comment": "<p>Spider-man: Far From Home should start with Peter Parker & friends (possibly the Avengers themselves too) recreating one of his favorite vine compilations. </p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "princiell",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1920,
+                        "header_full_height": 804,
+                        "header_focus_width": 1429,
+                        "header_focus_height": 804,
+                        "avatar_shape": "circle",
+                        "background_color": "#000000",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,1429,804,0",
+                        "header_image": "https://static.tumblr.com/b60572a0990bdb0862ded99363c700f3/tfwcorx/Wbhpsnoss/tumblr_static_2gau39ouy7r4480kgos8ckk4c.jpg",
+                        "header_image_focused": "https://static.tumblr.com/df6cb0a81ee9baaba684a5da86bd5332/tfwcorx/AYopsnosu/tumblr_static_tumblr_static_2gau39ouy7r4480kgos8ckk4c_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/b60572a0990bdb0862ded99363c700f3/tfwcorx/Wbhpsnoss/tumblr_static_2gau39ouy7r4480kgos8ckk4c_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#002aff",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#ff0000",
+                        "title_font": "Alternate Gothic",
+                        "title_font_weight": "regular"
+                    },
+                    "share_likes": true,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181006349872"
+                },
+                "content_raw": "<p>Spider-man: Far From Home should start with Peter Parker & friends (possibly the Avengers themselves too) recreating one of his favorite vine compilations. </p>",
+                "content": "<p>Spider-man: Far From Home should start with Peter Parker &amp; friends (possibly the Avengers themselves too) recreating one of his favorite vine compilations. </p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    },
+    {
+        "type": "text",
+        "blog_name": "all-avengers",
+        "blog": {
+            "name": "all-avengers",
+            "title": "it's-all-avengers",
+            "description": "Writer, idiot, just a mess really. I deal in the MCU. Headcanons, fics, incorrect quotes and (maybe, if I'm feeling brave) fanart. Request if you want - imagines, oneshots, shortfics, would-includes, anything. Headcanon/quote submissions are always welcome :).",
+            "url": "https://all-avengers.tumblr.com/",
+            "uuid": "t:-pizUEiTXQ4Z9eX74p8vMA",
+            "updated": 1546612964
+        },
+        "id": 181005908589,
+        "post_url": "https://all-avengers.tumblr.com/post/181005908589/incorrect-quote-31",
+        "slug": "incorrect-quote-31",
+        "date": "2018-12-11 03:55:50 GMT",
+        "timestamp": 1544500550,
+        "state": "published",
+        "format": "html",
+        "reblog_key": "Fv5PCauv",
+        "tags": [
+            "peter parker",
+            "spider man",
+            "spiderman",
+            "spider-man",
+            "tony stark",
+            "iron man",
+            "irondad",
+            "spiderson",
+            "irondad and spiderson",
+            "source: ???"
+        ],
+        "short_url": "https://tmblr.co/ZBC9jY2eaolfj",
+        "summary": "incorrect quote #31",
+        "should_open_in_legacy": false,
+        "recommended_source": null,
+        "recommended_color": null,
+        "note_count": 483,
+        "title": "incorrect quote #31",
+        "body": "<p><b>Peter, staring into his cup:</b> I drink to forget but I always remember.</p><p><b>Tony:</b>\u00a0..You\u2019re drinking soda.</p>",
+        "reblog": {
+            "comment": "<p><b>Peter, staring into his cup:</b> I drink to forget but I always remember.</p><p><b>Tony:</b>\u00a0..You\u2019re drinking soda.</p>",
+            "tree_html": ""
+        },
+        "trail": [
+            {
+                "blog": {
+                    "name": "all-avengers",
+                    "active": true,
+                    "theme": {
+                        "header_full_width": 1920,
+                        "header_full_height": 1080,
+                        "header_focus_width": 1920,
+                        "header_focus_height": 1079,
+                        "avatar_shape": "circle",
+                        "background_color": "#b6b7ba",
+                        "body_font": "Helvetica Neue",
+                        "header_bounds": "0,1920,1079,0",
+                        "header_image": "https://static.tumblr.com/efa09373f12521b37b8a12927e629da6/k6ajkmo/kpApemrr3/tumblr_static_aslwim3mya884ckck880o0wow.jpg",
+                        "header_image_focused": "https://static.tumblr.com/efa09373f12521b37b8a12927e629da6/k6ajkmo/CpCpemrr5/tumblr_static_tumblr_static_aslwim3mya884ckck880o0wow_focused_v3.jpg",
+                        "header_image_scaled": "https://static.tumblr.com/efa09373f12521b37b8a12927e629da6/k6ajkmo/kpApemrr3/tumblr_static_aslwim3mya884ckck880o0wow_2048_v2.jpg",
+                        "header_stretch": true,
+                        "link_color": "#394ACB",
+                        "show_avatar": true,
+                        "show_description": true,
+                        "show_header_image": true,
+                        "show_title": true,
+                        "title_color": "#394ACB",
+                        "title_font": "1785 GLC Baskerville",
+                        "title_font_weight": "bold"
+                    },
+                    "share_likes": false,
+                    "share_following": false,
+                    "can_be_followed": true
+                },
+                "post": {
+                    "id": "181005908589"
+                },
+                "content_raw": "<p><b>Peter, staring into his cup:</b> I drink to forget but I always remember.</p><p><b>Tony:</b>\u00a0..You\u2019re drinking soda.</p>",
+                "content": "<p><b>Peter, staring into his cup:</b> I drink to forget but I always remember.</p><p><b>Tony:</b>&nbsp;..You&rsquo;re drinking soda.</p>",
+                "is_current_item": true,
+                "is_root_item": true
+            }
+        ],
+        "can_like": false,
+        "can_reblog": false,
+        "can_send_in_message": true,
+        "can_reply": false,
+        "display_avatar": true
+    }
+]
