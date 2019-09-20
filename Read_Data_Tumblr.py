@@ -6,23 +6,10 @@ import re
 
 # Autenticación, los clientes utilizados
 client = pytumblr.TumblrRestClient (
-  'aQTecxniC7WRTaPfnwAiDLSnNSBcaUNdLKO4BjMPbKsPyPcAh8',
-  'aftgShEeRCmsuTKvu79LZfeSO8XnjTAtKFkzPiaO4MkSIG9f9g',
-  'ndaNcZxCuIXhIkoRm3RJv8lGELlYLUpw6SzTyTWIhzHbLGIQNf',
-  'btfNfXyFqMhgtWD95V63P93dfRa42d766gw5NKVdzNeCHoyTKr'
 )
 client1 = pytumblr.TumblrRestClient (
-  'zOSy4MOVyoMqcrOMoPnPWIZPYu7LLpg0IeuPXuDeaLMXORPLkt',
-  'kMVnq5aP93YCKj583AUUeOr93SACMl1JDiYCMSmAwkq5AhUxm6',
-  'ndaNcZxCuIXhIkoRm3RJv8lGELlYLUpw6SzTyTWIhzHbLGIQNf',
-  'btfNfXyFqMhgtWD95V63P93dfRa42d766gw5NKVdzNeCHoyTKr'
 )
-
 client2 = pytumblr.TumblrRestClient(
-  '9Fd4oPYTuOa65tvYQbcGkBYEOXYCrKV6j2pXsCGYAI9yvGCrUQ',
-  'ZTpJ5rPa6MVB9MrzCay3w8XvSCYP0dWOilxH1FalelAjoS6Ssv',
-  'ndaNcZxCuIXhIkoRm3RJv8lGELlYLUpw6SzTyTWIhzHbLGIQNf',
-  'btfNfXyFqMhgtWD95V63P93dfRa42d766gw5NKVdzNeCHoyTKr'
 )
 
 
@@ -31,7 +18,7 @@ list1 = []
 list2 = []
 list3 = []
 #tags ya recolectados
-tags = ['Artists on Tumblr','Marvel','Pokemon','Game of Thrones','Taylor Swift','Sport','Avengers', 'Harry Potter','Harry Styles','Star Wars','Health','BTS','Boku','Druk','Writers on Tumblr','Studyblr','Artist on Tumblr','Sarah J. Maas']
+
 days = 365  #Dias consultados
 timestamp=int(time()) # timestamp referencia la fecha en que se inicia la consulta
 
@@ -41,8 +28,7 @@ f.close()
 
 for i in range(len(list1)):
 	word = re.sub(r'[|,\n]', '',list1[i])
-	if word not in tags:
-		list2.append (word)
+	list2.append (word)
 		
 list3 = list(set(list2)) #Eliminar tags repetidos
 
